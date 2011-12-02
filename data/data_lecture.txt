@@ -1,0 +1,37 @@
+name:科技创新遥远吗？
+speechmaker:张逸中、朱欣然
+time: 2010年6月9号下午2:30
+place:数学馆113
+src:F:\picture\1.jpg
+description:由教育部工程中心党支部、嵌入式系统系和团学联联合举办的讲座——“科技创新遥远吗？”成功举行。 讲座由多次在国际和国内科技竞赛中获奖的张逸中同学和美国莱斯大学硕士生朱欣然同学主讲，通过国内外同龄人的科研故事与实例展示，激发了同学们强烈的兴趣。
+
+name:ICT challenge in Internet of Things
+speechmaker: Philippe COUSIN
+time: 2010年6月11日
+place:数学馆201报告厅
+src:F:\picture\2.jpg
+description:该报告列入校级学术报告，报告人简介和报告摘要见后。欢迎各位老师同学届时参加，并请辅导员老师在学生中宣传。
+
+
+name:Reverse Engineering With Grammatical and Visual Support
+speechmaker:张康
+time:2010年5月25日
+place:数学馆201
+src:F:\picture\3.jpg
+description:张康 博士 现任美国德克萨斯大学达拉斯分校 计算机科学系 终生正教授,可视计算实验室主任。同时还是该校计算机工程专业和地理信息系统专业的兼职教授。他于1982年2月在成都电讯工程学院(现改名为电子科技大学)取得计算机工程学士学位,1990年在英国布莱顿大学取得计算机科学博士学位。
+
+
+name:Reconfigurable Computing – A Mega-Trend in the Future?
+speechmaker:魏少军
+time:2010年5月18日
+place:数学馆201
+src:F:\picture\4.jpg
+description:由于功耗等因素的影响，微处理器架构正面临着重大的变革。“通用为王”是不可逆转的发展大趋势。一方面，CPU和DSP正在向多核（Multi-Cores）和众核（Many-Cores）方向发展，逐渐形成可重构的计算单元阵列，另一方面，现场可编程逻辑阵列（FPGA）不断地集成CPU、DSP和存储器等功能部件，逐渐构筑可重构的逻辑阵列。两者殊途同归，可望在不久的将来逐渐融合，形成统一的动态可重构、可配置、可编程处理器平台。国际上普遍认为，在集成电路工艺进步到16nm后，专用集成电路（ASIC）和SoC将逐渐退出市场，上述动态可重构、可配置、可编程的处理器平台将成为为数不多的主流产品之一，主导电子整机的开发，对计算机架构、软件和最终产品形态以及移动通信终端、便携式电子产品等产生重大和深远的影响。
+
+
+name:“挑战杯”获奖选手系列访谈
+speechmaker:获奖选手
+time:11月22日  15:30 
+place:大学生活动中心多功能厅
+src:F:\picture\8.jpg
+description:第一期即受到了师生们的一致好评，由于受活动场地等相关因素影响，本次系列访谈的活动时间、地点作出如下调整，敬请师生留意。

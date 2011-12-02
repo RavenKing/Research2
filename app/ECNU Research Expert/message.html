@@ -1,0 +1,96 @@
+﻿<!DOCTYPE html>
+
+
+<html lang="en">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title><?php echo __("Message");?></title>
+<link rel="stylesheet" href="styles.css" type="text/css" />
+			
+            
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/superfish.js"></script>
+
+<script type="text/javascript" src="js/custom.js"></script>
+
+<!--
+paradigm, a free CSS web template by spyka Webmaster (www.spyka.net)
+
+Download: http://www.spyka.net/web-templates/paradigm/
+
+License: Creative Commons Attribution
+//-->
+</head>
+
+<body>
+<div id="container">
+	 <div id="header" class="auto-style1">
+    	<h1><a href="home.html"><?php echo __("ECNU");?><strong><?php echo __("Research Expert");?></strong></a></h1>
+        <h2><?php echo __("Transparent, Efficient, Informative");?></h2>
+        <div class="clear"></div>
+      </div>
+      <div id="nav">
+    	<ul class="sf-menu dropdown">
+        	<li class="selected"><a href="home.html"><?php echo __("Home");?></a></li>
+        	<li><a href="faculty.html"><?php echo __("Faculty");?></a></li>
+            <li><a class="has_submenu" href="#"><?php echo __("Research");?></a>
+            	<ul>
+                	<li><a href="search_project.html"><?php echo __("Search Project");?></a></li>
+                    <li><a href="display_project.html"><?php echo __("Research Gallery");?></a></li>
+                    <li><a href="project_highlight.html"><?php echo __("Project Highlight");?></a></li>
+                </ul>
+            </li>
+            <li><a class="has_submenu" href="#"><?php echo __("Activity");?></a>
+            	<ul>
+                	<li><a href="lecture.html"><?php echo __("Lecture");?></a></li>
+                    <li><a href="competition.html"><?php echo __("Competition");?></a></li>
+                    <li><a href="register.html"><?php echo __("Register");?></a></li>
+                </ul>
+            </li>
+            <li><a href="message.html"><?php echo __("Message");?></a></li>
+            <li><a href="about.html"><?php echo __("About");?></a></li>
+        </ul>
+    </div>
+        
+    <div id="body">
+		<div id="content">
+            <div class="box">
+              <p>&nbsp;</p>
+              <h3>Message:</h3>
+				<fieldset>
+
+					<legend></legend>
+					<form action="#" method="get">
+
+						<p><label for="name">Name:</label>
+					  <input name="name" id="name" value="" type="text" /><br /></p>		
+						<p><label for="email">Email:</label>
+						<input name="email" id="email" value="" type="text" /><br /></p>
+						<p><label for="message">Message:</label>	
+						<textarea cols="60" rows="11" name="message" id="message"></textarea><br /></p>
+						<p><input name="send" class="formbutton" value="Send" type="submit" /></p>
+				  </form>
+
+	
+			  </fieldset>
+          </div>
+        </div>
+		<div class="clear"></div>
+    </div>
+    <div id="footer">
+        <div class="footer-content">
+    
+                <span class="sitename">ECNU Research</span>
+                 
+                 <div class="clear"></div>
+        </div>
+    <div class="footer-bottom">
+            <p>&copy; ECNU Research Expert 2011. Website Designed for<a href="http://www.ecnu.edu.cn">ECNU</a> | <a href="#">Contact Us</a> | All Rights Reserved</p>
+         </div>
+    
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,192 @@
+﻿<!DOCTYPE html>
+
+
+<html lang="en">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title><?php echo __("Search Project");?></title>
+<link rel="stylesheet" href="styles.css" type="text/css" />
+			
+            
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/InputValidation.js"></script>
+<script type="text/javascript" src="js/superfish.js"></script>
+<script type="text/javascript" src="js/custom.js"></script>
+
+
+</head>
+
+<body>
+<div id="container">
+	  <div id="header" class="auto-style1">
+    	<h1><a href="home.html"><?php echo __("ECNU");?><strong><?php echo __("Research Expert");?></strong></a></h1>
+        <h2><?php echo __("Transparent, Efficient, Informative");?></h2>
+        <div class="clear"></div>
+      </div>
+      <div id="nav">
+    	<ul class="sf-menu dropdown">
+        	<li class="selected"><a href="home.html"><?php echo __("Home");?></a></li>
+        	<li><a href="faculty.html"><?php echo __("Faculty");?></a></li>
+            <li><a class="has_submenu" href="#"><?php echo __("Research");?></a>
+            	<ul>
+                	<li><a href="search_project.html"><?php echo __("Search Project");?></a></li>
+                    <li><a href="display_project.html"><?php echo __("Research Gallery");?></a></li>
+                    <li><a href="project_highlight.html"><?php echo __("Project Highlight");?></a></li>
+                </ul>
+            </li>
+            <li><a class="has_submenu" href="#"><?php echo __("Activity");?></a>
+            	<ul>
+                	<li><a href="lecture.html"><?php echo __("Lecture");?></a></li>
+                    <li><a href="competition.html"><?php echo __("Competition");?></a></li>
+                    <li><a href="register.html"><?php echo __("Register");?></a></li>
+                </ul>
+            </li>
+            <li><a href="message.html"><?php echo __("Message");?></a></li>
+            <li><a href="about.html"><?php echo __("About");?></a></li>
+        </ul>
+    </div>
+            
+    <div id="body">
+    		<b>
+			<a href="home.html"><?php echo __("home");?></a>
+				&gt;
+			<a href="#"> <?php echo __("Research");?></a>
+				&gt;
+			<a href="search_project.html"><?php echo __("Search Project");?></a></b>
+            	<p>&nbsp;</p>
+            </b>
+            
+     <div id="contentLeft">
+     <div id="box">
+      <h3>&nbsp;&nbsp;&nbsp;<?php echo __("Search Project");?></h3>
+        <fieldset>
+
+					<legend></legend>
+					<form action="处理项目查询请求的具体PHP页面.php" method="get">
+					<!--表单具体传入参数说明：1.项目名称字段  2.指导老师 3.使用技术(单选) 4.研究方向(复选)  5.项目介绍-->	
+                        <!--字段1  名称-->
+						<p><label for="project name">&nbsp;&nbsp;&nbsp;&nbsp;<?php echo __("Project Name:");?><!--项目名称--></label>
+					  	<input name="project name" id="project name" value="" type="text" /><br /></p>		
+						
+                        <!--字段2 老师-->
+                        <p><label for="teacher">&nbsp;&nbsp;&nbsp;&nbsp;<?php echo __("Teacher Name:");?><!--指导老师--></label>
+					  	<input name="teacher name" id="teacher name" value="" type="text" /><br /></p>
+                        
+                        <!--字段3  技术-->
+                        <p><label for="technique">&nbsp;&nbsp;&nbsp;&nbsp;<?php echo __("Project Technique:");?><!--使用技术--></label><br/>
+                        &nbsp;&nbsp;&nbsp;&nbsp;C++
+						<input type="radio" checked="checked" name="technique" value="C++" />
+                        &nbsp;&nbsp;
+						JAVA
+						<input type="radio" name="technique" value="JAVA" />
+                        &nbsp;&nbsp;
+                        C#
+                        <input type="radio" name="technique" value="C#"/><br /></p>
+						
+                        
+                        <!--字段4 研究方向-->
+                        <p><label for="direction">&nbsp;&nbsp;&nbsp;&nbsp;<?php echo __("Research Direction");?><!--研究方向--></label><br/>
+						&nbsp;&nbsp;&nbsp;&nbsp;海量数据
+                        <input type="checkbox" name="direction" value="Massive Data" />
+                        &nbsp;&nbsp;
+                        嵌入式系统
+                        <input type="checkbox" name="direction" value="Embedded System"/>
+                        &nbsp;&nbsp;
+                        计算理论
+                        <input type="checkbox" name="direction" value="Computational Theory"/>                                                
+                        <br /></p>
+                        
+                        <!--字段5 项目简介-->
+                        <p><label for="discription">&nbsp;&nbsp;&nbsp;&nbsp;<?php echo __("Project Discription");?><!--项目简介--></label>
+                        <input name="project discription" id="project name" value="" type="text" />
+                        <br /></p>
+                        
+                        <!--submit 按钮-->
+						<p><input name="search" class="formbutton" value="搜索" type="submit" /></p>
+				  </form>
+		</fieldset>
+        </div>
+        
+        
+        <div id="box">
+		<h3><?php echo __("Project");?></h3>
+                
+                
+                <!---数据库交互说明：一个<div class="roundcont">显示一个项目-->
+                <div class="roundcont">
+					<div class="roundtop">
+						<img class="corner" width="15" height="15" style="display: none" alt="" src="images/tl.gif">
+					</div>
+				  <table>
+					<tbody>
+							<tr>
+								<td valign="top" style="padding:0 10px 0 10px">
+									<a href="相关项目的具体php页面.php">
+										<img width="110" height="80" border="0" src="images/project_image_example.JPG".jpg">
+									</a>
+								</td>
+								<td>
+									<strong>
+									<a href="相关项目的具体php页面.php">项目标题</a>
+									</strong>
+									<a id="1" name="1"></a>
+									<br>数据库中project  description属性字段<br>
+									<br>数据库中project time(随便挑一个)属性字段<br>
+								</td>
+							</tr>
+					</tbody>
+				  </table>
+					<div class="roundbottom">
+					<img class="corner" width="15" height="15" style="display: none" alt="" src="images/bl.gif">
+					</div>
+				</div>
+                
+                <!---数据库交互说明：一个<div class="roundcont">显示一个项目-->
+            <!--更多的项目-->
+        
+        </div><!---div id="box"结束-->        
+        
+     </div><!---div id="contentLeft"结束-->
+     
+     <!--侧边栏的相关项目显示-->
+    <div id="dpr-research-news-content">
+		<h4><?php echo __("Related Lectures and Competition");?><!--（这边显示相关（direction或者technique属性相同）讲座信息--></h4>
+				
+				<!--一个div id="dpr-research-news-container"用于显示一个相关讲座-->
+                <div id="dpr-research-news-container">
+					<div id="dpr-research-news-image">
+					<img width="81" height="81" border="0" src="images/project_image_example.jpg">
+					</div>
+					
+                    <div id="dpr-research-news-text">
+					<strong>
+					<a href="#">（讲座标题）</a>
+					</strong>
+					</div>
+                    
+				</div>
+                
+                <!--还可以有很多别的讲座 添加在这里-->
+      </div>
+      <!--侧边栏相关讲座结束-->
+                                
+    <div class="clear"></div>
+        
+</div>
+    <div id="footer">
+        <div class="footer-content">
+    
+                <span class="sitename">ECNU Research Expert</span>
+              
+                 <div class="clear"></div>
+        </div>
+     <div class="footer-bottom">
+            <p>&copy; ECNU Research Expert 2011. Website Designed for <a href="http://www.ecnu.edu.cn">ECNU</a> | <a href="http://www.ecnu.edu.cn">Contact Us</a> | All Rights Reserved</p>
+         </div>
+    
+    </div>
+</div>
+</body>
+</html>

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title></title>
+<link rel="stylesheet" href="styles.css" type="text/css" />
+			
+            
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/slider.js"></script>
+<script type="text/javascript" src="js/superfish.js"></script>
+
+<script type="text/javascript" src="js/custom.js"></script>
+
+
+<style type="text/css">
+.auto-style1 {
+	margin-top: 23;
+}
+</style>
+</head>
+
+<body>
+<div id="container">
+	 <div id="header" class="auto-style1">
+    	<h1><a href="home.html"><?php echo __("ECNU");?><strong><?php echo __("Research Expert");?></strong></a></h1>
+        <h2><?php echo __("Transparent, Efficient, Informative");?></h2>
+        <div class="clear"></div>
+      </div>
+      <div id="nav">
+    	<ul class="sf-menu dropdown">
+        	<li class="selected"><a href="home.html"><?php echo __("Home");?></a></li>
+        	<li><a href="faculty.html"><?php echo __("Faculty");?></a></li>
+            <li><a class="has_submenu" href="#"><?php echo __("Research");?></a>
+            	<ul>
+                	<li><a href="search_project.html"><?php echo __("Search Project");?></a></li>
+                    <li><a href="display_project.html"><?php echo __("Research Gallery");?></a></li>
+                    <li><a href="project_highlight.html"><?php echo __("Project Highlight");?></a></li>
+                </ul>
+            </li>
+            <li><a class="has_submenu" href="#"><?php echo __("Activity");?></a>
+            	<ul>
+                	<li><a href="lecture.html"><?php echo __("Lecture");?></a></li>
+                    <li><a href="competition.html"><?php echo __("Competition");?></a></li>
+                    <li><a href="register.html"><?php echo __("Register");?></a></li>
+                </ul>
+            </li>
+            <li><a href="message.html"><?php echo __("Message");?></a></li>
+            <li><a href="about.html"><?php echo __("About");?></a></li>
+        </ul>
+    </div>
+    
+    <div id="slides-container">
+        <div id="slides">
+            <div>
+                <div class="slide-image"><img src="images/slide-home.jpg" alt="introduction to ECNU image" /></div>
+                <div class="slide-text">
+                    <h2>General Introduction</h2>
+                    <p>This is a research information center of ECNU.Our goal of thumb is to provide a transparent,efficient,informative approach to research and related events.We hope we could make it to be the desired solution both for students and teachers.</p>
+                </div>
+            </div>
+            
+            <div>
+                <div class="slide-image"><img src="images/slide-research.jpg" alt="research image" href="www.ecnu.edu.cn"/></div>
+                <div class="slide-text">
+            	<h2 class="slide-text">Research</h2>
+                <p>A project-oriented research information center.You can get to know the current progress of the research project and join the most suitable at your wish.</p>
+              </div>
+          </div>
+            
+            <div>
+                <div class="slide-image slide-image-right"><img src="images/slide-lecture.jpg" alt="lectures image" /></div>
+                <div class="slide-text">
+                    <h2>Activity</h2>
+                    <p>Section amied at Lectures and Activities.</p>        
+                </div>
+            </div>
+		</div>
+        <div class="controls"><span class="jFlowNext"><span>Next</span></span><span class="jFlowPrev"><span>Prev</span></span></div>        
+        <div id="myController" class="hidden"><span class="jFlowControl">Slide 1</span><span class="jFlowControl">Slide 1</span><span class="jFlowControl">Slide 1</span></div>
+    </div>
+        
+    
+    <div id="footer">
+        <div class="footer-content">
+    
+                <span class="sitename">Research Expert</span>
+                 <div class="clear"></div>
+        </div>
+       <div class="footer-bottom">
+            <p>&copy; ECNU Research Expert 2011. Website Designed for <a href="http://www.ecnu.edu.cn">ECNU</a> | <a href="http://www.ecnu.edu.cn">Contact Us</a>All Rights Reserved</p>
+         </div>
+    
+    </div>
+</div>
+</body>
+</html>

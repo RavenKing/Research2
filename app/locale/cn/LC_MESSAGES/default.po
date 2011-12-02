@@ -1,0 +1,4479 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cakeresearch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-02 11:29+0800\n"
+"PO-Revision-Date: 2011-12-02 11:29+0800\n"
+"Last-Translator: Kevin Yang <yangkittykai@gmail.com>\n"
+"Language-Team: yang\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: D:\\wampnew\\www\\research2\n"
+"X-Poedit-Language: Chinese\n"
+"X-Poedit-Country: CHINA\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: app/controllers/applytables_controller.php:13
+#: app/controllers/applytables_controller.php:36
+msgid "Invalid applytable"
+msgstr "查看申请表"
+
+#: app/controllers/applytables_controller.php:24
+#: app/controllers/applytables_controller.php:41
+msgid "The applytable has been saved"
+msgstr "申请表"
+
+#: app/controllers/applytables_controller.php:27
+#: app/controllers/applytables_controller.php:44
+msgid "The applytable could not be saved. Please, try again."
+msgstr "申请表无法保存。请再试一次。"
+
+#: app/controllers/applytables_controller.php:56
+msgid "Invalid id for applytable"
+msgstr "查看申请表id"
+
+#: app/controllers/applytables_controller.php:60
+msgid "Applytable deleted"
+msgstr "申请表删除"
+
+#: app/controllers/applytables_controller.php:63
+msgid "Applytable was not deleted"
+msgstr "申请表未删除"
+
+#: app/controllers/directions_controller.php:19
+#: app/controllers/directions_controller.php:39
+msgid "Invalid direction"
+msgstr "查看方向"
+
+#: app/controllers/directions_controller.php:29
+#: app/controllers/directions_controller.php:44
+msgid "The direction has been saved"
+msgstr "方向已保存"
+
+#: app/controllers/directions_controller.php:32
+#: app/controllers/directions_controller.php:47
+msgid "The direction could not be saved. Please, try again."
+msgstr "方向无法保存。请再试一次。"
+
+#: app/controllers/directions_controller.php:57
+msgid "Invalid id for direction"
+msgstr "查看方向id"
+
+#: app/controllers/directions_controller.php:61
+msgid "Direction deleted"
+msgstr "删除方向"
+
+#: app/controllers/directions_controller.php:64
+msgid "Direction was not deleted"
+msgstr "方向未删除"
+
+#: app/controllers/faculties_controller.php:26
+#: app/controllers/faculties_controller.php:46
+msgid "Invalid faculty"
+msgstr "查看院系导航"
+
+#: app/controllers/faculties_controller.php:36
+#: app/controllers/faculties_controller.php:51
+msgid "The faculty has been saved"
+msgstr "院系导航已保存"
+
+#: app/controllers/faculties_controller.php:39
+#: app/controllers/faculties_controller.php:54
+msgid "The faculty could not be saved. Please, try again."
+msgstr "院系导航无法保存。请再试一次。"
+
+#: app/controllers/faculties_controller.php:64
+msgid "Invalid id for faculty"
+msgstr "查看院系导航id"
+
+#: app/controllers/faculties_controller.php:68
+msgid "Faculty deleted"
+msgstr "删除院系导航"
+
+#: app/controllers/faculties_controller.php:71
+msgid "Faculty was not deleted"
+msgstr "院系导航未删除"
+
+#: app/controllers/groups_controller.php:22
+#: app/controllers/groups_controller.php:42
+msgid "Invalid group"
+msgstr "查看分组"
+
+#: app/controllers/groups_controller.php:32
+#: app/controllers/groups_controller.php:47
+msgid "The group has been saved"
+msgstr "分组已保存"
+
+#: app/controllers/groups_controller.php:35
+#: app/controllers/groups_controller.php:50
+msgid "The group could not be saved. Please, try again."
+msgstr "分组无法保存。请再试一次。"
+
+#: app/controllers/groups_controller.php:60
+msgid "Invalid id for group"
+msgstr "查看分组id"
+
+#: app/controllers/groups_controller.php:64
+msgid "Group deleted"
+msgstr "删除分组"
+
+#: app/controllers/groups_controller.php:67
+msgid "Group was not deleted"
+msgstr "分组未被删除"
+
+#: app/controllers/lectures_controller.php:20
+#: app/controllers/lectures_controller.php:45
+msgid "Invalid lecture"
+msgstr "查看讲座"
+
+#: app/controllers/lectures_controller.php:32
+#: app/controllers/lectures_controller.php:50
+msgid "The lecture has been saved"
+msgstr "讲座已保存"
+
+#: app/controllers/lectures_controller.php:38
+#: app/controllers/lectures_controller.php:53
+msgid "The lecture could not be saved. Please, try again."
+msgstr "讲座无法保存。请再试一次。"
+
+#: app/controllers/lectures_controller.php:63
+msgid "Invalid id for lecture"
+msgstr "查看讲座id"
+
+#: app/controllers/lectures_controller.php:67
+msgid "Lecture deleted"
+msgstr "讲座删除"
+
+#: app/controllers/lectures_controller.php:70
+msgid "Lecture was not deleted"
+msgstr "讲座未被删除"
+
+#: app/controllers/lecture_heads_controller.php:13
+#: app/controllers/lecture_heads_controller.php:35
+#, fuzzy
+msgid "Invalid lecture head"
+msgstr "查看讲座"
+
+#: app/controllers/lecture_heads_controller.php:23
+#: app/controllers/lecture_heads_controller.php:40
+msgid "The lecture head has been saved"
+msgstr "讲座已保存"
+
+#: app/controllers/lecture_heads_controller.php:26
+#: app/controllers/lecture_heads_controller.php:43
+msgid "The lecture head could not be saved. Please, try again."
+msgstr "讲座无法保存。请再试一次。"
+
+#: app/controllers/lecture_heads_controller.php:55
+msgid "Invalid id for lecture head"
+msgstr "查看讲座标题id"
+
+#: app/controllers/lecture_heads_controller.php:59
+msgid "Lecture head deleted"
+msgstr "删除讲座标题"
+
+#: app/controllers/lecture_heads_controller.php:62
+msgid "Lecture head was not deleted"
+msgstr "讲座标题未删除"
+
+#: app/controllers/matches_controller.php:20
+#: app/controllers/matches_controller.php:59
+msgid "Invalid match"
+msgstr "查看比赛"
+
+#: app/controllers/matches_controller.php:31
+#: app/controllers/matches_controller.php:64
+msgid "The match has been saved"
+msgstr "比赛已保存"
+
+#: app/controllers/matches_controller.php:50
+#: app/controllers/matches_controller.php:67
+msgid "The match could not be saved. Please, try again."
+msgstr "比赛无法保存。请再试一次。"
+
+#: app/controllers/matches_controller.php:79
+msgid "Invalid id for match"
+msgstr "查看比赛id"
+
+#: app/controllers/matches_controller.php:83
+msgid "Match deleted"
+msgstr "删除比赛"
+
+#: app/controllers/matches_controller.php:86
+msgid "Match was not deleted"
+msgstr "比赛未删除"
+
+#: app/controllers/match_heads_controller.php:13
+#: app/controllers/match_heads_controller.php:35
+#, fuzzy
+msgid "Invalid match head"
+msgstr "查看比赛"
+
+#: app/controllers/match_heads_controller.php:23
+#: app/controllers/match_heads_controller.php:40
+msgid "The match head has been saved"
+msgstr "比赛标题已保存。"
+
+#: app/controllers/match_heads_controller.php:26
+#: app/controllers/match_heads_controller.php:43
+msgid "The match head could not be saved. Please, try again."
+msgstr "比赛标题无法保存。请再试一次。"
+
+#: app/controllers/match_heads_controller.php:55
+msgid "Invalid id for match head"
+msgstr "查看比赛标题id"
+
+#: app/controllers/match_heads_controller.php:59
+msgid "Match head deleted"
+msgstr "删除比赛标题"
+
+#: app/controllers/match_heads_controller.php:62
+msgid "Match head was not deleted"
+msgstr "比赛标题未删除"
+
+#: app/controllers/match_teches_controller.php:13
+#: app/controllers/match_teches_controller.php:36
+msgid "Invalid match tech"
+msgstr "查看比赛技术"
+
+#: app/controllers/match_teches_controller.php:23
+#: app/controllers/match_teches_controller.php:41
+msgid "The match tech has been saved"
+msgstr "比赛技术已保存"
+
+#: app/controllers/match_teches_controller.php:26
+#: app/controllers/match_teches_controller.php:44
+msgid "The match tech could not be saved. Please, try again."
+msgstr "比赛技术无法保存。请再试一次。"
+
+#: app/controllers/match_teches_controller.php:57
+msgid "Invalid id for match tech"
+msgstr "查看比赛技术id"
+
+#: app/controllers/match_teches_controller.php:61
+msgid "Match tech deleted"
+msgstr "删除比赛技术"
+
+#: app/controllers/match_teches_controller.php:64
+msgid "Match tech was not deleted"
+msgstr "比赛技术未删除"
+
+#: app/controllers/messageboards_controller.php:14
+#: app/controllers/messageboards_controller.php:34
+#, fuzzy
+msgid "Invalid messageboard"
+msgstr "查看比赛"
+
+#: app/controllers/messageboards_controller.php:24
+#: app/controllers/messageboards_controller.php:39
+msgid "The messageboard has been saved"
+msgstr "留言板已保存"
+
+#: app/controllers/messageboards_controller.php:27
+#: app/controllers/messageboards_controller.php:42
+msgid "The messageboard could not be saved. Please, try again."
+msgstr "留言板无法保存。请再试一次。"
+
+#: app/controllers/messageboards_controller.php:52
+msgid "Invalid id for messageboard"
+msgstr "查看留言板id"
+
+#: app/controllers/messageboards_controller.php:56
+msgid "Messageboard deleted"
+msgstr "留言板删除"
+
+#: app/controllers/messageboards_controller.php:59
+msgid "Messageboard was not deleted"
+msgstr "中文"
+
+#: app/controllers/places_controller.php:19
+#: app/controllers/places_controller.php:39
+msgid "Invalid place"
+msgstr "查看地点"
+
+#: app/controllers/places_controller.php:29
+#: app/controllers/places_controller.php:44
+msgid "The place has been saved"
+msgstr "地点已保存"
+
+#: app/controllers/places_controller.php:32
+#: app/controllers/places_controller.php:47
+msgid "The place could not be saved. Please, try again."
+msgstr "地点无法保存。请再试一次。"
+
+#: app/controllers/places_controller.php:57
+msgid "Invalid id for place"
+msgstr "查看地点Id"
+
+#: app/controllers/places_controller.php:61
+msgid "Place deleted"
+msgstr "删除地点"
+
+#: app/controllers/places_controller.php:64
+msgid "Place was not deleted"
+msgstr "地点未删除"
+
+#: app/controllers/progresses_controller.php:21
+#: app/controllers/progresses_controller.php:45
+msgid "Invalid progress"
+msgstr "查看过程"
+
+#: app/controllers/progresses_controller.php:31
+#: app/controllers/progresses_controller.php:50
+msgid "The progress has been saved"
+msgstr "过程已保存"
+
+#: app/controllers/progresses_controller.php:38
+#: app/controllers/progresses_controller.php:53
+msgid "The progress could not be saved. Please, try again."
+msgstr "过程无法保存。请再试一次。"
+
+#: app/controllers/progresses_controller.php:63
+msgid "Invalid id for progress"
+msgstr "查看过程id"
+
+#: app/controllers/progresses_controller.php:67
+msgid "Progress deleted"
+msgstr "删除过程"
+
+#: app/controllers/progresses_controller.php:70
+msgid "Progress was not deleted"
+msgstr "过程未删除"
+
+#: app/controllers/projects_controller.php:19
+#: app/controllers/projects_controller.php:54
+msgid "Invalid project"
+msgstr "查看项目"
+
+#: app/controllers/projects_controller.php:41
+#: app/controllers/projects_controller.php:62
+msgid "The project could not be saved. Please, try again."
+msgstr "项目无法保存。请再试一次。"
+
+#: app/controllers/projects_controller.php:59
+msgid "The project has been saved"
+msgstr "项目已保存"
+
+#: app/controllers/projects_controller.php:78
+msgid "Invalid id for project"
+msgstr "查看项目id"
+
+#: app/controllers/projects_controller.php:82
+msgid "Project deleted"
+msgstr "删除项目"
+
+#: app/controllers/projects_controller.php:85
+msgid "Project was not deleted"
+msgstr "项目未删除"
+
+#: app/controllers/project_heads_controller.php:13
+#: app/controllers/project_heads_controller.php:35
+#, fuzzy
+msgid "Invalid project head"
+msgstr "查看项目"
+
+#: app/controllers/project_heads_controller.php:23
+#: app/controllers/project_heads_controller.php:40
+msgid "The project head has been saved"
+msgstr "项目标题已保存"
+
+#: app/controllers/project_heads_controller.php:26
+#: app/controllers/project_heads_controller.php:43
+msgid "The project head could not be saved. Please, try again."
+msgstr "项目标题无法保存。请再试一次。"
+
+#: app/controllers/project_heads_controller.php:55
+msgid "Invalid id for project head"
+msgstr "查看项目标题id"
+
+#: app/controllers/project_heads_controller.php:59
+msgid "Project head deleted"
+msgstr "删除项目标题"
+
+#: app/controllers/project_heads_controller.php:62
+msgid "Project head was not deleted"
+msgstr "项目标题未删除"
+
+#: app/controllers/project_teches_controller.php:19
+#: app/controllers/project_teches_controller.php:42
+msgid "Invalid project tech"
+msgstr "查看项目技术"
+
+#: app/controllers/project_teches_controller.php:29
+#: app/controllers/project_teches_controller.php:47
+msgid "The project tech has been saved"
+msgstr "项目技术已保存"
+
+#: app/controllers/project_teches_controller.php:32
+#: app/controllers/project_teches_controller.php:50
+msgid "The project tech could not be saved. Please, try again."
+msgstr "项目技术无法保存。请再试一次。"
+
+#: app/controllers/project_teches_controller.php:63
+msgid "Invalid id for project tech"
+msgstr "查看项目技术id"
+
+#: app/controllers/project_teches_controller.php:67
+msgid "Project tech deleted"
+msgstr "删除项目技术"
+
+#: app/controllers/project_teches_controller.php:70
+msgid "Project tech was not deleted"
+msgstr "项目技术未删除"
+
+#: app/controllers/teachers_controller.php:21
+#: app/controllers/teachers_controller.php:47
+msgid "Invalid teacher"
+msgstr "查看老师"
+
+#: app/controllers/teachers_controller.php:31
+#: app/controllers/teachers_controller.php:52
+msgid "The teacher has been saved"
+msgstr "老师已保存"
+
+#: app/controllers/teachers_controller.php:38
+#: app/controllers/teachers_controller.php:55
+msgid "The teacher could not be saved. Please, try again."
+msgstr "老师无法保存。请再试一次。"
+
+#: app/controllers/teachers_controller.php:67
+msgid "Invalid id for teacher"
+msgstr "查看老师id"
+
+#: app/controllers/teachers_controller.php:71
+msgid "Teacher deleted"
+msgstr "删除老师"
+
+#: app/controllers/teachers_controller.php:74
+msgid "Teacher was not deleted"
+msgstr "老师未删除"
+
+#: app/controllers/teacher_heads_controller.php:13
+#: app/controllers/teacher_heads_controller.php:35
+#, fuzzy
+msgid "Invalid teacher head"
+msgstr "查看老师"
+
+#: app/controllers/teacher_heads_controller.php:23
+#: app/controllers/teacher_heads_controller.php:40
+#, fuzzy
+msgid "The teacher head has been saved"
+msgstr "老师已保存"
+
+#: app/controllers/teacher_heads_controller.php:26
+#: app/controllers/teacher_heads_controller.php:43
+#, fuzzy
+msgid "The teacher head could not be saved. Please, try again."
+msgstr "老师无法保存。请再试一次。"
+
+#: app/controllers/teacher_heads_controller.php:55
+#, fuzzy
+msgid "Invalid id for teacher head"
+msgstr "查看老师id"
+
+#: app/controllers/teacher_heads_controller.php:59
+#, fuzzy
+msgid "Teacher head deleted"
+msgstr "删除老师"
+
+#: app/controllers/teacher_heads_controller.php:62
+#, fuzzy
+msgid "Teacher head was not deleted"
+msgstr "老师未删除"
+
+#: app/controllers/techniques_controller.php:19
+#: app/controllers/techniques_controller.php:39
+msgid "Invalid technique"
+msgstr "查看技术方法"
+
+#: app/controllers/techniques_controller.php:29
+#: app/controllers/techniques_controller.php:44
+msgid "The technique has been saved"
+msgstr "技术已保存"
+
+#: app/controllers/techniques_controller.php:32
+#: app/controllers/techniques_controller.php:47
+msgid "The technique could not be saved. Please, try again."
+msgstr "技术无法保存。请再试一次。"
+
+#: app/controllers/techniques_controller.php:57
+msgid "Invalid id for technique"
+msgstr "查看技术id"
+
+#: app/controllers/techniques_controller.php:61
+msgid "Technique deleted"
+msgstr "删除技术"
+
+#: app/controllers/techniques_controller.php:64
+msgid "Technique was not deleted"
+msgstr "技术未删除"
+
+#: app/controllers/users_controller.php:36
+#: app/controllers/users_controller.php:58
+msgid "Invalid user"
+msgstr "查看用户"
+
+#: app/controllers/users_controller.php:46
+#: app/controllers/users_controller.php:63
+msgid "The user has been saved"
+msgstr "用户已保存"
+
+#: app/controllers/users_controller.php:49
+#: app/controllers/users_controller.php:66
+msgid "The user could not be saved. Please, try again."
+msgstr "用户无法保存。请再试一次"
+
+#: app/controllers/users_controller.php:78
+msgid "Invalid id for user"
+msgstr "查看用户id"
+
+#: app/controllers/users_controller.php:82
+msgid "User deleted"
+msgstr "删除用户"
+
+#: app/controllers/users_controller.php:85
+msgid "User was not deleted"
+msgstr "用户未删除"
+
+#: app/controllers/xis_controller.php:13
+#: app/controllers/xis_controller.php:35
+msgid "Invalid xi"
+msgstr "查看院系"
+
+#: app/controllers/xis_controller.php:23
+#: app/controllers/xis_controller.php:40
+msgid "The xi has been saved"
+msgstr "院系已保存"
+
+#: app/controllers/xis_controller.php:26
+#: app/controllers/xis_controller.php:43
+msgid "The xi could not be saved. Please, try again."
+msgstr "院系无法保存。请再试一次"
+
+#: app/controllers/xis_controller.php:55
+msgid "Invalid id for xi"
+msgstr "查看院系id"
+
+#: app/controllers/xis_controller.php:59
+msgid "Xi deleted"
+msgstr "删除院系"
+
+#: app/controllers/xis_controller.php:62
+msgid "Xi was not deleted"
+msgstr "院系未删除"
+
+#: app/webroot/test.php:88
+msgid "Debug setting does not allow access to this url."
+msgstr ""
+
+#: cake/console/cake.php:329
+#, php-format
+msgid "Error: Class %s could not be loaded."
+msgstr ""
+
+#: cake/console/cake.php:381
+#, php-format
+msgid "Error: Unknown %1$s command %2$s."
+msgstr ""
+
+#: cake/console/cake.php:382
+#, php-format
+msgid "For usage try `cake %s help`"
+msgstr ""
+
+#: cake/console/error.php:80
+#, php-format
+msgid "The requested address %s was not found on this server."
+msgstr ""
+
+#: cake/console/error.php:94
+#, php-format
+msgid "Missing Controller '%s'"
+msgstr ""
+
+#: cake/console/error.php:106
+#, php-format
+msgid "Missing Method '%s' in '%s'"
+msgstr ""
+
+#: cake/console/error.php:118
+#, php-format
+msgid "Trying to access private method '%s' in '%s'"
+msgstr ""
+
+#: cake/console/error.php:130
+#, php-format
+msgid "Missing database table '%s' for model '%s'"
+msgstr ""
+
+#: cake/console/error.php:141
+msgid "Missing Database"
+msgstr ""
+
+#: cake/console/error.php:153
+#, php-format
+msgid "Missing View '%s' for '%s' in '%s'"
+msgstr ""
+
+#: cake/console/error.php:165
+#, php-format
+msgid "Missing Layout '%s'"
+msgstr ""
+
+#: cake/console/error.php:177
+msgid "Missing Database Connection. Try 'cake bake'"
+msgstr ""
+
+#: cake/console/error.php:189
+#, php-format
+msgid "Missing Helper file '%s' for '%s'"
+msgstr ""
+
+#: cake/console/error.php:201
+#, php-format
+msgid "Missing Helper class '%s' in '%s'"
+msgstr ""
+
+#: cake/console/error.php:213
+#, php-format
+msgid "Missing Component file '%s' for '%s'"
+msgstr ""
+
+#: cake/console/error.php:225
+#, php-format
+msgid "Missing Component class '%s' in '%s'"
+msgstr ""
+
+#: cake/console/error.php:237
+#, php-format
+msgid "Missing model '%s'"
+msgstr ""
+
+#: cake/console/libs/acl.php:76
+msgid "Error: Your current Cake configuration is set to"
+msgstr ""
+
+#: cake/console/libs/acl.php:77
+msgid "an ACL implementation other than DB. Please change"
+msgstr ""
+
+#: cake/console/libs/acl.php:78
+msgid "your core config to reflect your decision to use"
+msgstr ""
+
+#: cake/console/libs/acl.php:79
+msgid "DbAcl before attempting to use this script"
+msgstr ""
+
+#: cake/console/libs/acl.php:81
+#, php-format
+msgid "Current ACL Classname: %s"
+msgstr ""
+
+#: cake/console/libs/acl.php:89
+#: cake/console/libs/bake.php:81
+#: cake/console/libs/i18n.php:58
+msgid "Your database configuration was not found. Take a moment to create one."
+msgstr ""
+
+#: cake/console/libs/acl.php:109
+msgid "Available ACL commands:"
+msgstr ""
+
+#: cake/console/libs/acl.php:121
+msgid "For help, run the 'help' command.  For help on a specific command, run 'help <command>'"
+msgstr ""
+
+#: cake/console/libs/acl.php:148
+msgid "/ can not be used as an alias!"
+msgstr ""
+
+#: cake/console/libs/acl.php:148
+msgid "\t/ is the root, please supply a sub alias"
+msgstr ""
+
+#: cake/console/libs/acl.php:154
+#, php-format
+msgid "New %s '%s' created.\n"
+msgstr ""
+
+#: cake/console/libs/acl.php:156
+#, php-format
+msgid "There was a problem creating a new %s '%s'."
+msgstr ""
+
+#: cake/console/libs/acl.php:174
+msgid "Node Not Deleted"
+msgstr ""
+
+#: cake/console/libs/acl.php:174
+#, php-format
+msgid "There was an error deleting the %s. Check that the node exists"
+msgstr ""
+
+#: cake/console/libs/acl.php:176
+#, php-format
+msgid "%s deleted"
+msgstr ""
+
+#: cake/console/libs/acl.php:199
+msgid "Error in setting new parent. Please make sure the parent node exists, and is not a descendant of the node specified."
+msgstr ""
+
+#: cake/console/libs/acl.php:201
+#, php-format
+msgid "Node parent set to %s"
+msgstr ""
+
+#: cake/console/libs/acl.php:221
+#, php-format
+msgid "Supplied Node '%s' not found"
+msgstr ""
+
+#: cake/console/libs/acl.php:222
+#: cake/console/libs/acl.php:345
+#: cake/console/libs/acl.php:347
+#: cake/console/libs/acl.php:514
+msgid "No tree returned."
+msgstr ""
+
+#: cake/console/libs/acl.php:225
+msgid "Path:"
+msgstr "路径："
+
+#: cake/console/libs/acl.php:261
+#, php-format
+msgid "%s is allowed."
+msgstr ""
+
+#: cake/console/libs/acl.php:263
+#, php-format
+msgid "%s is not allowed."
+msgstr ""
+
+#: cake/console/libs/acl.php:277
+msgid "Permission granted."
+msgstr ""
+
+#: cake/console/libs/acl.php:279
+msgid "Permission was not granted."
+msgstr ""
+
+#: cake/console/libs/acl.php:293
+msgid "Permission denied."
+msgstr ""
+
+#: cake/console/libs/acl.php:295
+msgid "Permission was not denied."
+msgstr ""
+
+#: cake/console/libs/acl.php:309
+msgid "Permission inherited."
+msgstr ""
+
+#: cake/console/libs/acl.php:311
+msgid "Permission was not inherited."
+msgstr ""
+
+#: cake/console/libs/acl.php:345
+#: cake/console/libs/acl.php:347
+#: cake/console/libs/acl.php:514
+#: cake/console/libs/api.php:92
+#, php-format
+msgid "%s not found"
+msgstr ""
+
+#: cake/console/libs/acl.php:394
+msgid "Usage: cake acl <command> <arg1> <arg2>..."
+msgstr ""
+
+#: cake/console/libs/acl.php:396
+msgid "Commands:"
+msgstr ""
+
+#: cake/console/libs/acl.php:400
+msgid "Creates a new ACL object <node> under the parent"
+msgstr ""
+
+#: cake/console/libs/acl.php:401
+msgid "specified by <parent>, an id/alias."
+msgstr ""
+
+#: cake/console/libs/acl.php:402
+msgid "The <parent> and <node> references can be"
+msgstr ""
+
+#: cake/console/libs/acl.php:403
+msgid "in one of the following formats:"
+msgstr ""
+
+#: cake/console/libs/acl.php:404
+msgid "<model>.<id> - The node will be bound to a"
+msgstr ""
+
+#: cake/console/libs/acl.php:405
+msgid "specific record of the given model."
+msgstr ""
+
+#: cake/console/libs/acl.php:406
+msgid "<alias> - The node will be given a string alias,"
+msgstr ""
+
+#: cake/console/libs/acl.php:407
+msgid " (or path, in the case of <parent>)"
+msgstr ""
+
+#: cake/console/libs/acl.php:408
+msgid "i.e. 'John'.  When used with <parent>,"
+msgstr ""
+
+#: cake/console/libs/acl.php:409
+msgid "this takes the form of an alias path,"
+msgstr ""
+
+#: cake/console/libs/acl.php:410
+msgid "i.e. <group>/<subgroup>/<parent>."
+msgstr ""
+
+#: cake/console/libs/acl.php:411
+msgid "To add a node at the root level,"
+msgstr ""
+
+#: cake/console/libs/acl.php:412
+msgid "enter 'root' or '/' as the <parent> parameter."
+msgstr ""
+
+#: cake/console/libs/acl.php:415
+msgid "Deletes the ACL object with the given <node> reference"
+msgstr ""
+
+#: cake/console/libs/acl.php:416
+#: cake/console/libs/acl.php:422
+#: cake/console/libs/acl.php:429
+#: cake/console/libs/acl.php:434
+#: cake/console/libs/acl.php:441
+#: cake/console/libs/acl.php:448
+#: cake/console/libs/acl.php:454
+#: cake/console/libs/acl.php:461
+msgid "For more detailed parameter usage info,"
+msgstr ""
+
+#: cake/console/libs/acl.php:417
+#: cake/console/libs/acl.php:423
+#: cake/console/libs/acl.php:430
+#: cake/console/libs/acl.php:435
+#: cake/console/libs/acl.php:442
+#: cake/console/libs/acl.php:449
+#: cake/console/libs/acl.php:455
+#: cake/console/libs/acl.php:462
+msgid "see help for the 'create' command."
+msgstr ""
+
+#: cake/console/libs/acl.php:420
+msgid "Moves the ACL object specified by <node> beneath"
+msgstr ""
+
+#: cake/console/libs/acl.php:421
+msgid "the parent ACL object specified by <parent>."
+msgstr ""
+
+#: cake/console/libs/acl.php:426
+msgid "Returns the path to the ACL object specified by <node>. This command"
+msgstr ""
+
+#: cake/console/libs/acl.php:427
+msgid "is useful in determining the inhertiance of permissions for a certain"
+msgstr ""
+
+#: cake/console/libs/acl.php:428
+msgid "object in the tree."
+msgstr ""
+
+#: cake/console/libs/acl.php:432
+#: cake/console/libs/acl.php:437
+#: cake/console/libs/acl.php:444
+#: cake/console/libs/acl.php:451
+msgid "or"
+msgstr "或者"
+
+#: cake/console/libs/acl.php:433
+msgid "Use this command to check ACL permissions."
+msgstr ""
+
+#: cake/console/libs/acl.php:438
+msgid "Use this command to grant ACL permissions. Once executed, the ARO"
+msgstr ""
+
+#: cake/console/libs/acl.php:439
+msgid "specified (and its children, if any) will have ALLOW access to the"
+msgstr ""
+
+#: cake/console/libs/acl.php:440
+#: cake/console/libs/acl.php:447
+msgid "specified ACO action (and the ACO's children, if any)."
+msgstr ""
+
+#: cake/console/libs/acl.php:445
+msgid "Use this command to deny ACL permissions. Once executed, the ARO"
+msgstr ""
+
+#: cake/console/libs/acl.php:446
+msgid "specified (and its children, if any) will have DENY access to the"
+msgstr ""
+
+#: cake/console/libs/acl.php:452
+msgid "Use this command to force a child ARO object to inherit its"
+msgstr ""
+
+#: cake/console/libs/acl.php:453
+msgid "permissions settings from its parent."
+msgstr ""
+
+#: cake/console/libs/acl.php:458
+msgid "The view command will return the ARO or ACO tree."
+msgstr ""
+
+#: cake/console/libs/acl.php:459
+msgid "The optional node parameter allows you to return"
+msgstr ""
+
+#: cake/console/libs/acl.php:460
+msgid "only a portion of the requested tree."
+msgstr ""
+
+#: cake/console/libs/acl.php:465
+msgid "Uses this command : cake schema run create DbAcl"
+msgstr ""
+
+#: cake/console/libs/acl.php:468
+msgid "Displays this help message, or a message on a specific command."
+msgstr ""
+
+#: cake/console/libs/acl.php:479
+#, php-format
+msgid "Command '%s' not found"
+msgstr ""
+
+#: cake/console/libs/acl.php:493
+#, php-format
+msgid "Missing/Unknown node type: '%s'"
+msgstr ""
+
+#: cake/console/libs/acl.php:493
+msgid "Please specify which ACL object type you wish to create. Either \"aro\" or \"aco\""
+msgstr ""
+
+#: cake/console/libs/acl.php:550
+#, php-format
+msgid "Could not find node using reference \"%s\""
+msgstr ""
+
+#: cake/console/libs/api.php:101
+#, php-format
+msgid "%s::%s() could not be found"
+msgstr ""
+
+#: cake/console/libs/api.php:118
+msgid "Select a number to see the more information about a specific method. q to quit. l to list."
+msgstr ""
+
+#: cake/console/libs/api.php:120
+msgid "Done"
+msgstr ""
+
+#: cake/console/libs/api.php:191
+#, php-format
+msgid "%s could not be found"
+msgstr ""
+
+#: cake/console/libs/bake.php:96
+msgid "What would you like to Bake?"
+msgstr ""
+
+#: cake/console/libs/bake.php:123
+msgid "You have made an invalid selection. Please choose a type of class to Bake by entering D, M, V, F, T, or C."
+msgstr ""
+
+#: cake/console/libs/bake.php:170
+#, php-format
+msgid "%s Model was baked."
+msgstr ""
+
+#: cake/console/libs/bake.php:181
+#, php-format
+msgid "%s Controller was baked."
+msgstr ""
+
+#: cake/console/libs/bake.php:189
+#, php-format
+msgid "%s Views were baked."
+msgstr ""
+
+#: cake/console/libs/bake.php:191
+msgid "Bake All complete"
+msgstr ""
+
+#: cake/console/libs/bake.php:194
+msgid "Bake All could not continue without a valid model"
+msgstr ""
+
+#: cake/console/libs/i18n.php:70
+msgid "I18n Shell"
+msgstr ""
+
+#: cake/console/libs/i18n.php:72
+msgid "[E]xtract POT file from sources"
+msgstr ""
+
+#: cake/console/libs/i18n.php:73
+msgid "[I]nitialize i18n database table"
+msgstr ""
+
+#: cake/console/libs/i18n.php:74
+msgid "[H]elp"
+msgstr ""
+
+#: cake/console/libs/i18n.php:75
+msgid "[Q]uit"
+msgstr ""
+
+#: cake/console/libs/i18n.php:77
+msgid "What would you like to do?"
+msgstr ""
+
+#: cake/console/libs/i18n.php:92
+msgid "You have made an invalid selection. Please choose a command to execute by entering E, I, H, or Q."
+msgstr ""
+
+#: cake/console/libs/i18n.php:115
+msgid "I18n Shell:"
+msgstr ""
+
+#: cake/console/libs/i18n.php:117
+msgid "I18n Shell initializes i18n database table for your application"
+msgstr ""
+
+#: cake/console/libs/i18n.php:118
+msgid "and generates .pot file(s) with translations."
+msgstr ""
+
+#: cake/console/libs/i18n.php:120
+msgid "usage:"
+msgstr ""
+
+#: cake/console/libs/schema.php:122
+#, php-format
+msgid "Schema file (%s) could not be found."
+msgstr ""
+
+#: cake/console/libs/schema.php:134
+msgid "Generating Schema..."
+msgstr ""
+
+#: cake/console/libs/schema.php:193
+#: cake/console/libs/schema.php:196
+#, php-format
+msgid "Schema file: %s generated"
+msgstr ""
+
+#: cake/console/libs/schema.php:214
+msgid "Schema could not be loaded"
+msgstr ""
+
+#: cake/console/libs/schema.php:239
+#, php-format
+msgid "SQL dump file created in %s"
+msgstr ""
+
+#: cake/console/libs/schema.php:242
+msgid "SQL dump could not be created"
+msgstr ""
+
+#: cake/console/libs/schema.php:286
+msgid "Performing a dry run."
+msgstr ""
+
+#: cake/console/libs/schema.php:298
+#, php-format
+msgid "%s could not be loaded"
+msgstr ""
+
+#: cake/console/libs/schema.php:329
+#: cake/console/libs/schema.php:379
+msgid "Schema is up to date."
+msgstr ""
+
+#: cake/console/libs/schema.php:333
+msgid "The following table(s) will be dropped."
+msgstr ""
+
+#: cake/console/libs/schema.php:336
+msgid "Are you sure you want to drop the table(s)?"
+msgstr ""
+
+#: cake/console/libs/schema.php:337
+msgid "Dropping table(s)."
+msgstr ""
+
+#: cake/console/libs/schema.php:341
+msgid "The following table(s) will be created."
+msgstr ""
+
+#: cake/console/libs/schema.php:344
+msgid "Are you sure you want to create the table(s)?"
+msgstr ""
+
+#: cake/console/libs/schema.php:345
+msgid "Creating table(s)."
+msgstr ""
+
+#: cake/console/libs/schema.php:348
+msgid "End create."
+msgstr ""
+
+#: cake/console/libs/schema.php:360
+msgid "Comparing Database to Schema..."
+msgstr ""
+
+#: cake/console/libs/schema.php:383
+msgid "The following statements will run."
+msgstr ""
+
+#: cake/console/libs/schema.php:385
+msgid "Are you sure you want to alter the tables?"
+msgstr ""
+
+#: cake/console/libs/schema.php:387
+msgid "Updating Database..."
+msgstr ""
+
+#: cake/console/libs/schema.php:391
+msgid "End update."
+msgstr ""
+
+#: cake/console/libs/schema.php:401
+msgid "Sql could not be run"
+msgstr ""
+
+#: cake/console/libs/schema.php:409
+#, php-format
+msgid "%s is up to date."
+msgstr ""
+
+#: cake/console/libs/schema.php:412
+#, php-format
+msgid "Dry run for %s :"
+msgstr ""
+
+#: cake/console/libs/schema.php:428
+#, php-format
+msgid "%s updated."
+msgstr ""
+
+#: cake/console/libs/shell.php:422
+#, php-format
+msgid "Error: %s"
+msgstr ""
+
+#: cake/console/libs/shell.php:462
+#, php-format
+msgid "Creating file %s"
+msgstr ""
+
+#: cake/console/libs/shell.php:465
+#, php-format
+msgid "File `%s` exists, overwrite?"
+msgstr ""
+
+#: cake/console/libs/shell.php:469
+msgid "Quitting."
+msgstr ""
+
+#: cake/console/libs/shell.php:472
+#, php-format
+msgid "Skip `%s`"
+msgstr ""
+
+#: cake/console/libs/shell.php:483
+#, php-format
+msgid "Wrote `%s`"
+msgstr ""
+
+#: cake/console/libs/shell.php:486
+#, php-format
+msgid "Could not write to `%s`."
+msgstr ""
+
+#: cake/console/libs/testsuite.php:152
+msgid "CakePHP Test Shell"
+msgstr ""
+
+#: cake/console/libs/testsuite.php:156
+msgid "Sorry, you did not pass any arguments!"
+msgstr ""
+
+#: cake/console/libs/testsuite.php:160
+#, php-format
+msgid "Running %s %s %s"
+msgstr ""
+
+#: cake/console/libs/testsuite.php:169
+msgid "Sorry, the tests could not be found."
+msgstr ""
+
+#: cake/console/libs/testsuite.php:223
+#, php-format
+msgid "%s is an invalid test category (either \"app\", \"core\" or name of a plugin)"
+msgstr ""
+
+#: cake/console/libs/testsuite.php:237
+#, php-format
+msgid "%s is invalid. Should be case, group or all"
+msgstr ""
+
+#: cake/console/libs/testsuite.php:247
+#, php-format
+msgid "%s %s %s is an invalid test identifier"
+msgstr ""
+
+#: cake/console/libs/testsuite.php:273
+msgid "You must install Xdebug to use the CakePHP(tm) Code Coverage Analyzation. Download it from http://www.xdebug.org/docs/install"
+msgstr ""
+
+#: cake/console/libs/testsuite.php:366
+msgid "Sorry, Simpletest could not be found. Download it from http://simpletest.org and install it to your vendors directory."
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:77
+msgid "Baking basic crud methods for "
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:82
+#: cake/console/libs/tasks/controller.php:90
+#, php-format
+msgid "Adding %s methods"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:134
+#, php-format
+msgid ""
+"Bake Controller\n"
+"Path: %s"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:143
+#, php-format
+msgid "Baking %sController"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:155
+msgid "Would you like to build your controller interactively?"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:157
+#, php-format
+msgid "Warning: Choosing no will overwrite the %sController."
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:164
+msgid "Would you like to use dynamic scaffolding?"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:177
+msgid "Would you like to use Session flash messages?"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:195
+#: cake/console/libs/tasks/model.php:241
+#: cake/console/libs/tasks/plugin.php:134
+#: cake/console/libs/tasks/project.php:152
+#: cake/console/libs/tasks/view.php:348
+msgid "Look okay?"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:220
+msgid "The following controller will be created:"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:222
+#, php-format
+msgid ""
+"Controller Name:\n"
+"\t%s"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:229
+msgid "Helpers:"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:230
+msgid "Components:"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:257
+msgid ""
+"Would you like to create some basic class methods \n"
+"(index(), add(), view(), edit())?"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:261
+msgid "Would you like to create the basic class methods for admin routing?"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:283
+msgid "You must have a model for this class to build basic methods. Please try again."
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:347
+msgid ""
+"Would you like this controller to use other helpers\n"
+"besides HtmlHelper and FormHelper?"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:348
+msgid ""
+"Please provide a comma separated list of the other\n"
+"helper names you'd like to use.\n"
+"Example: 'Ajax, Javascript, Time'"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:359
+msgid "Would you like this controller to use any components?"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:360
+msgid ""
+"Please provide a comma separated list of the component names you'd like to use.\n"
+"Example: 'Acl, Security, RequestHandler'"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:397
+msgid "Possible Controllers based on your current database:"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:421
+msgid ""
+"Enter a number from the list above,\n"
+"type in the name of another controller, or 'q' to exit"
+msgstr ""
+
+#: cake/console/libs/tasks/controller.php:424
+#: cake/console/libs/tasks/model.php:872
+msgid "Exit"
+msgstr "退出"
+
+#: cake/console/libs/tasks/controller.php:429
+msgid ""
+"The Controller name you supplied was empty,\n"
+"or the number you selected was not an option. Please try again."
+msgstr ""
+
+#: cake/console/libs/tasks/db_config.php:364
+msgid "Use Database Config"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:107
+#, php-format
+msgid ""
+"What is the full path you would like to extract?\n"
+"Example: %s\n"
+"[Q]uit [D]one"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:111
+#: cake/console/libs/tasks/extract.php:133
+msgid "Extract Aborted"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:120
+#: cake/console/libs/tasks/extract.php:139
+msgid "The directory path you supplied was not found. Please try again."
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:129
+#, php-format
+msgid ""
+"What is the full path you would like to output?\n"
+"Example: %s\n"
+"[Q]uit"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:149
+msgid "Would you like to merge all domains strings into the default.pot file?"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:168
+msgid "Extracting..."
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:170
+msgid "Paths:"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:174
+msgid "Output Directory: "
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:182
+msgid "Done."
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:192
+msgid "CakePHP Language String Extraction:"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:194
+msgid "The Extract script generates .pot file(s) with translations"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:195
+msgid "By default the .pot file(s) will be place in the locale directory of -app"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:196
+msgid "By default -app is ROOT/app"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:198
+msgid "Usage: cake i18n extract <command> <param1> <param2>..."
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:200
+msgid "Params:"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:201
+msgid "   -app [path...]: directory where your application is located"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:202
+msgid "   -root [path...]: path to install"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:203
+msgid "   -core [path...]: path to cake directory"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:204
+msgid "   -paths [comma separated list of paths, full path is needed]"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:205
+msgid "   -merge [yes|no]: Merge all domains strings into the default.pot file"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:206
+msgid "   -output [path...]: Full path to output directory"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:207
+msgid "   -files: [comma separated list of files, full path to file is needed]"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:210
+msgid "   cake i18n extract help: Shows this help message."
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:223
+#, php-format
+msgid "Processing %s..."
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:386
+#, php-format
+msgid "Error: %s already exists in this location. Overwrite? [Y]es, [N]o, [A]ll"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:390
+#, php-format
+msgid ""
+"What would you like to name this file?\n"
+"Example: %s"
+msgstr ""
+
+#: cake/console/libs/tasks/extract.php:458
+#, php-format
+msgid ""
+"Invalid marker content in %s:%s\n"
+"* %s("
+msgstr ""
+
+#: cake/console/libs/tasks/fixture.php:133
+msgid "Would you like to import schema for this fixture?"
+msgstr ""
+
+#: cake/console/libs/tasks/fixture.php:137
+msgid "Would you like to use record importing for this fixture?"
+msgstr ""
+
+#: cake/console/libs/tasks/fixture.php:142
+#, php-format
+msgid "Would you like to build this fixture with data from %s's table?"
+msgstr ""
+
+#: cake/console/libs/tasks/fixture.php:371
+msgid ""
+"Please provide a SQL fragment to use as conditions\n"
+"Example: WHERE 1=1 LIMIT 10"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:115
+#, php-format
+msgid "Baking %s"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:154
+msgid "Make a selection from the choices above"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:193
+#, php-format
+msgid "Table %s does not exist, cannot bake a model without a table."
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:202
+msgid ""
+"Would you like to supply validation criteria \n"
+"for the fields in your model?"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:208
+msgid ""
+"Would you like to define model associations\n"
+"(hasMany, hasOne, belongsTo, etc.)?"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:216
+msgid "The following Model will be created:"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:221
+#, php-format
+msgid "DB Config:  %s"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:224
+#, php-format
+msgid "DB Table:   %s"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:227
+#, php-format
+msgid "Primary Key: %s"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:230
+#, php-format
+msgid "Validation: %s"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:233
+msgid "Associations:"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:288
+msgid "What is the primaryKey?"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:299
+msgid ""
+"A displayField could not be automatically detected\n"
+"would you like to choose one?"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:304
+msgid "Choose a field from the options above:"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:376
+#, php-format
+msgid "Field: %s"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:377
+#, php-format
+msgid "Type: %s"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:379
+msgid "Please select one of the following validation options:"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:387
+#, php-format
+msgid "%s - Do not do any validation on this field.\n"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:388
+msgid "... or enter in a valid regex validation string.\n"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:413
+msgid ""
+"You have already chosen that validation rule,\n"
+"please choose again"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:417
+msgid "Please make a valid selection."
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:439
+msgid "Would you like to add another validation rule?"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:459
+msgid "One moment while the associations are detected."
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:487
+msgid "None found."
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:489
+msgid "Please confirm the following associations:"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:646
+msgid "Would you like to define some additional model associations?"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:651
+msgid "What is the association type?"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:652
+msgid "Enter a number"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:654
+msgid ""
+"For the following options be very careful to match your setup exactly.\n"
+"Any spelling mistakes will cause errors."
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:657
+msgid "What is the alias for this association?"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:658
+#, php-format
+msgid "What className will %s use?"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:673
+msgid "What is the table for this model?"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:679
+msgid "A helpful List of possible keys"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:680
+msgid "What is the foreignKey?"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:684
+msgid "What is the foreignKey? Specify your own."
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:687
+msgid "What is the associationForeignKey?"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:688
+msgid "What is the joinTable?"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:700
+msgid "Define another association?"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:784
+msgid "Possible Models based on your current database:"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:815
+#, php-format
+msgid ""
+"Given your model named '%s',\n"
+"Cake would expect a database table named '%s'"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:816
+msgid "Do you want to use this table?"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:819
+msgid "What is the name of the table?"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:851
+msgid "Your database does not have any tables."
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:869
+msgid ""
+"Enter a number from the list above,\n"
+"type in the name of another model, or 'q' to exit"
+msgstr ""
+
+#: cake/console/libs/tasks/model.php:877
+msgid ""
+"The model name you supplied was empty,\n"
+"or the number you selected was not an option. Please try again."
+msgstr ""
+
+#: cake/console/libs/tasks/plugin.php:71
+#, php-format
+msgid "Plugin: %s"
+msgstr ""
+
+#: cake/console/libs/tasks/plugin.php:72
+#: cake/console/libs/tasks/test.php:95
+#, php-format
+msgid "Path: %s"
+msgstr ""
+
+#: cake/console/libs/tasks/plugin.php:74
+#, php-format
+msgid "%s in path %s not found."
+msgstr ""
+
+#: cake/console/libs/tasks/plugin.php:91
+#, php-format
+msgid ""
+"%s directory could not be found.\n"
+"Be sure you have created %s"
+msgstr ""
+
+#: cake/console/libs/tasks/plugin.php:107
+msgid "Enter the name of the plugin in CamelCase format"
+msgstr ""
+
+#: cake/console/libs/tasks/plugin.php:111
+#, php-format
+msgid "An error occured trying to bake: %s in %s"
+msgstr ""
+
+#: cake/console/libs/tasks/plugin.php:130
+#, php-format
+msgid "Plugin Name: %s"
+msgstr ""
+
+#: cake/console/libs/tasks/plugin.php:131
+#, php-format
+msgid "Plugin Directory: %s"
+msgstr ""
+
+#: cake/console/libs/tasks/plugin.php:137
+#: cake/console/libs/tasks/project.php:155
+msgid "Do you want verbose output?"
+msgstr ""
+
+#: cake/console/libs/tasks/plugin.php:193
+#: cake/console/libs/tasks/project.php:163
+#, php-format
+msgid "Created: %s in %s"
+msgstr ""
+
+#: cake/console/libs/tasks/plugin.php:212
+msgid "Choose a plugin path from the paths above."
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:63
+msgid ""
+"What is the full path for this app including the app directory name?\n"
+" Example:"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:71
+#, php-format
+msgid "A project already exists in this location: %s Overwrite?"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:82
+msgid "Welcome page created"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:84
+msgid "The Welcome page was NOT created"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:88
+msgid "Random hash key created for 'Security.salt'"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:90
+#, php-format
+msgid "Unable to generate random hash for 'Security.salt', you should change it in %s"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:94
+msgid "Random seed created for 'Security.cipherSeed'"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:96
+#, php-format
+msgid "Unable to generate random seed for 'Security.cipherSeed', you should change it in %s"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:101
+#, php-format
+msgid "CAKE_CORE_INCLUDE_PATH set to %s in webroot/index.php"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:102
+#, php-format
+msgid "CAKE_CORE_INCLUDE_PATH set to %s in webroot/test.php"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:103
+msgid "Remember to check these value after moving to production server"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:105
+#, php-format
+msgid "Unable to set CAKE_CORE_INCLUDE_PATH, you should change it in %s"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:109
+#, php-format
+msgid "Could not set permissions on %s"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:110
+#, php-format
+msgid "chmod -R 0777 %s"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:135
+#, php-format
+msgid ""
+"What is the path to the directory layout you wish to copy?\n"
+"Example: %s"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:137
+msgid "The directory path you supplied was empty. Please try again."
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:140
+msgid "Directory path does not exist please choose another:"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:147
+msgid "Bake Project"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:148
+msgid "Skel Directory: "
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:149
+msgid "Will be copied to: "
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:166
+#, php-format
+msgid " '%s' could not be created properly"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:178
+#: cake/console/libs/tasks/view.php:353
+msgid "Bake Aborted."
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:322
+msgid "You have more than one routing prefix configured"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:331
+msgid "Please choose a prefix to bake with."
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:337
+msgid "What would you like the prefix route to be?"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:338
+msgid "Example: www.example.com/admin/controller"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:340
+msgid "Enter a routing prefix:"
+msgstr ""
+
+#: cake/console/libs/tasks/project.php:343
+msgid "Unable to write to /app/config/core.php."
+msgstr ""
+
+#: cake/console/libs/tasks/template.php:169
+msgid "You have more than one set of templates installed."
+msgstr ""
+
+#: cake/console/libs/tasks/template.php:170
+msgid "Please choose the template set you wish to use:"
+msgstr ""
+
+#: cake/console/libs/tasks/template.php:180
+msgid "Which bake theme would you like to use?"
+msgstr ""
+
+#: cake/console/libs/tasks/template.php:207
+#, php-format
+msgid "Could not find template for %s"
+msgstr ""
+
+#: cake/console/libs/tasks/test.php:94
+msgid "Bake Tests"
+msgstr ""
+
+#: cake/console/libs/tasks/test.php:119
+msgid "Bake is detecting possible fixtures.."
+msgstr ""
+
+#: cake/console/libs/tasks/test.php:160
+msgid "Select an object type:"
+msgstr ""
+
+#: cake/console/libs/tasks/test.php:169
+msgid "Enter the type of object to bake a test for or (q)uit"
+msgstr ""
+
+#: cake/console/libs/tasks/test.php:198
+#, php-format
+msgid "Choose a %s class"
+msgstr ""
+
+#: cake/console/libs/tasks/test.php:204
+msgid "Choose an existing class, or enter the name of a class that does not exist"
+msgstr ""
+
+#: cake/console/libs/tasks/test.php:382
+msgid "Bake could not detect fixtures, would you like to add some?"
+msgstr ""
+
+#: cake/console/libs/tasks/test.php:385
+msgid ""
+"Please provide a comma separated list of the fixtures names you'd like to use.\n"
+"Example: 'app.comment, app.post, plugin.forums.post'"
+msgstr ""
+
+#: cake/console/libs/tasks/view.php:226
+#, php-format
+msgid ""
+"Would you like bake to build your views interactively?\n"
+"Warning: Choosing no will overwrite %s views if it exist."
+msgstr ""
+
+#: cake/console/libs/tasks/view.php:233
+msgid ""
+"Would you like to create some CRUD views\n"
+"(index, add, view, edit) for this controller?\n"
+"NOTE: Before doing so, you'll need to create your controller\n"
+"and model classes (including associated models)."
+msgstr ""
+
+#: cake/console/libs/tasks/view.php:236
+msgid "Would you like to create the views for admin routing?"
+msgstr ""
+
+#: cake/console/libs/tasks/view.php:255
+msgid "View Scaffolding Complete.\n"
+msgstr ""
+
+#: cake/console/libs/tasks/view.php:273
+msgid "Controller not found"
+msgstr ""
+
+#: cake/console/libs/tasks/view.php:283
+#, php-format
+msgid ""
+"The file '%s' could not be found.\n"
+"In order to bake a view, you'll need to first create the controller."
+msgstr ""
+
+#: cake/console/libs/tasks/view.php:335
+msgid "Action Name? (use lowercase_underscored function name)"
+msgstr ""
+
+#: cake/console/libs/tasks/view.php:337
+msgid "The action name you supplied was empty. Please try again."
+msgstr ""
+
+#: cake/console/libs/tasks/view.php:342
+msgid "The following view will be created:"
+msgstr ""
+
+#: cake/console/libs/tasks/view.php:344
+#, php-format
+msgid "Controller Name: %s"
+msgstr ""
+
+#: cake/console/libs/tasks/view.php:345
+#, php-format
+msgid "Action Name:     %s"
+msgstr ""
+
+#: cake/console/libs/tasks/view.php:346
+#, php-format
+msgid "Path:            %s"
+msgstr ""
+
+#: cake/libs/cache.php:622
+#, php-format
+msgid "Method write() not implemented in %s"
+msgstr ""
+
+#: cake/libs/cache.php:633
+#, php-format
+msgid "Method read() not implemented in %s"
+msgstr ""
+
+#: cake/libs/cache.php:645
+#, php-format
+msgid "Method increment() not implemented in %s"
+msgstr ""
+
+#: cake/libs/cache.php:656
+#, php-format
+msgid "Method decrement() not implemented in %s"
+msgstr ""
+
+#: cake/libs/cake_log.php:101
+msgid "Missing logger classname"
+msgstr ""
+
+#: cake/libs/cake_log.php:133
+#, php-format
+msgid "Could not load logger class %s"
+msgstr ""
+
+#: cake/libs/cake_log.php:138
+#, php-format
+msgid "logger class %s does not implement a write method."
+msgstr ""
+
+#: cake/libs/cake_session.php:280
+#, php-format
+msgid "Deleting session key {%s}"
+msgstr ""
+
+#: cake/libs/cake_session.php:285
+#, php-format
+msgid "%s doesn't exist"
+msgstr ""
+
+#: cake/libs/cake_session.php:444
+#, php-format
+msgid "Writing session key {%s}: %s"
+msgstr ""
+
+#: cake/libs/cake_session.php:506
+msgid "You must set the all Configure::write('Session.*') in core.php to use database storage"
+msgstr ""
+
+#: cake/libs/cake_socket.php:244
+msgid "Connection timed out"
+msgstr ""
+
+#: cake/libs/class_registry.php:154
+#, php-format
+msgid "(ClassRegistry::init() could not create instance of %1$s class %2$s "
+msgstr ""
+
+#: cake/libs/class_registry.php:164
+msgid "(ClassRegistry::init() Attempted to create instance of a class with a numeric name"
+msgstr ""
+
+#: cake/libs/configure.php:267
+#, php-format
+msgid "Configure::load() - no variable $config found in %s.php"
+msgstr ""
+
+#: cake/libs/configure.php:394
+#, php-format
+msgid "Can't find application core file. Please create %score.php, and make sure it is readable by PHP."
+msgstr ""
+
+#: cake/libs/configure.php:401
+msgid "Cache not configured properly. Please check Cache::config(); in APP/config/core.php"
+msgstr ""
+
+#: cake/libs/configure.php:435
+#, php-format
+msgid "Can't find application bootstrap file. Please create %sbootstrap.php, and make sure it is readable by PHP."
+msgstr ""
+
+#: cake/libs/debugger.php:684
+msgid "Please change the value of 'Security.salt' in app/config/core.php to a salt value specific to your application"
+msgstr ""
+
+#: cake/libs/debugger.php:688
+msgid "Please change the value of 'Security.cipherSeed' in app/config/core.php to a numeric (digits only) seed value specific to your application"
+msgstr ""
+
+#: cake/libs/error.php:162
+msgid "Not Found"
+msgstr ""
+
+#: cake/libs/error.php:185
+msgid "An Internal Error Has Occurred"
+msgstr ""
+
+#: cake/libs/error.php:204
+msgid "Missing Controller"
+msgstr ""
+
+#: cake/libs/error.php:223
+msgid "Missing Method in Controller"
+msgstr ""
+
+#: cake/libs/error.php:240
+msgid "Trying to access private method in class"
+msgstr ""
+
+#: cake/libs/error.php:259
+msgid "Missing Database Table"
+msgstr ""
+
+#: cake/libs/error.php:274
+msgid "Scaffold Missing Database Connection"
+msgstr ""
+
+#: cake/libs/error.php:292
+msgid "Missing View"
+msgstr ""
+
+#: cake/libs/error.php:309
+msgid "Missing Layout"
+msgstr ""
+
+#: cake/libs/error.php:327
+msgid "Missing Database Connection"
+msgstr ""
+
+#: cake/libs/error.php:344
+msgid "Missing Helper File"
+msgstr ""
+
+#: cake/libs/error.php:361
+msgid "Missing Helper Class"
+msgstr ""
+
+#: cake/libs/error.php:378
+msgid "Missing Behavior File"
+msgstr ""
+
+#: cake/libs/error.php:395
+msgid "Missing Behavior Class"
+msgstr ""
+
+#: cake/libs/error.php:413
+msgid "Missing Component File"
+msgstr ""
+
+#: cake/libs/error.php:431
+msgid "Missing Component Class"
+msgstr ""
+
+#: cake/libs/error.php:447
+msgid "Missing Model"
+msgstr ""
+
+#: cake/libs/folder.php:379
+#: cake/libs/folder.php:400
+#, php-format
+msgid "%s changed to %s"
+msgstr ""
+
+#: cake/libs/folder.php:383
+#: cake/libs/folder.php:402
+#, php-format
+msgid "%s NOT changed to %s"
+msgstr ""
+
+#: cake/libs/folder.php:489
+#, php-format
+msgid "%s is a file"
+msgstr ""
+
+#: cake/libs/folder.php:500
+#: cake/libs/folder.php:665
+#, php-format
+msgid "%s created"
+msgstr ""
+
+#: cake/libs/folder.php:504
+#, php-format
+msgid "%s NOT created"
+msgstr ""
+
+#: cake/libs/folder.php:579
+#: cake/libs/folder.php:593
+#, php-format
+msgid "%s removed"
+msgstr ""
+
+#: cake/libs/folder.php:581
+#: cake/libs/folder.php:590
+#, php-format
+msgid "%s NOT removed"
+msgstr ""
+
+#: cake/libs/folder.php:638
+#, php-format
+msgid "%s not writable"
+msgstr ""
+
+#: cake/libs/folder.php:652
+#, php-format
+msgid "%s copied to %s"
+msgstr ""
+
+#: cake/libs/folder.php:654
+#, php-format
+msgid "%s NOT copied to %s"
+msgstr ""
+
+#: cake/libs/folder.php:669
+#, php-format
+msgid "%s not created"
+msgstr ""
+
+#: cake/libs/http_socket.php:539
+#, php-format
+msgid "HttpSocket::_decodeBody - Unknown encoding: %s. Activate quirks mode to surpress error."
+msgstr ""
+
+#: cake/libs/http_socket.php:565
+msgid "HttpSocket::_decodeChunkedBody - Could not parse malformed chunk. Activate quirks mode to do this."
+msgstr ""
+
+#: cake/libs/http_socket.php:827
+msgid "HttpSocket::_buildRequestLine - Passed an invalid request line string. Activate quirks mode to do this."
+msgstr ""
+
+#: cake/libs/http_socket.php:842
+#, php-format
+msgid "HttpSocket::_buildRequestLine - The \"*\" asterisk character is only allowed for the following methods: %s. Activate quirks mode to work outside of HTTP/1.1 specs."
+msgstr ""
+
+#: cake/libs/overloadable_php4.php:73
+#: cake/libs/overloadable_php4.php:133
+#, php-format
+msgid "Magic method handler call__ not defined in %s"
+msgstr ""
+
+#: cake/libs/router.php:288
+msgid "Route classes must extend CakeRoute"
+msgstr ""
+
+#: cake/libs/security.php:173
+msgid "You cannot use an empty key for Security::cipher()"
+msgstr ""
+
+#: cake/libs/validation.php:342
+msgid "You must define the $operator parameter for Validation::comparison()"
+msgstr ""
+
+#: cake/libs/validation.php:366
+msgid "You must define a regular expression for Validation::custom()"
+msgstr ""
+
+#: cake/libs/validation.php:927
+#, php-format
+msgid "Could not find %s class, unable to complete validation."
+msgstr ""
+
+#: cake/libs/validation.php:931
+#, php-format
+msgid "Method %s does not exist on %s unable to complete validation."
+msgstr ""
+
+#: cake/libs/xml.php:408
+msgid "Cannot append a node to itself."
+msgstr ""
+
+#: cake/libs/xml.php:906
+msgid "XML cannot be read"
+msgstr ""
+
+#: cake/libs/cache/file.php:267
+#, php-format
+msgid "%s is not writable"
+msgstr ""
+
+#: cake/libs/cache/memcache.php:161
+#, php-format
+msgid "Method increment() not implemented for compressed cache in %s"
+msgstr ""
+
+#: cake/libs/cache/memcache.php:177
+#, php-format
+msgid "Method decrement() not implemented for compressed cache in %s"
+msgstr ""
+
+#: cake/libs/controller/controller.php:366
+msgid "Controller::__construct() : Can not get or parse my own class name, exiting."
+msgstr ""
+
+#: cake/libs/controller/controller.php:803
+#, php-format
+msgid "%sController::isAuthorized() is not defined."
+msgstr ""
+
+#: cake/libs/controller/controller.php:1099
+#, php-format
+msgid "Controller::paginate() - can't find model %1$s in controller %2$sController"
+msgstr ""
+
+#: cake/libs/controller/scaffold.php:180
+msgid "Scaffold :: "
+msgstr ""
+
+#: cake/libs/controller/scaffold.php:226
+#, php-format
+msgid "No id set for %s::view()"
+msgstr ""
+
+#: cake/libs/controller/scaffold.php:293
+msgid "updated"
+msgstr "已更新"
+
+#: cake/libs/controller/scaffold.php:296
+msgid "saved"
+msgstr "已保存"
+
+#: cake/libs/controller/scaffold.php:306
+#, php-format
+msgid "Invalid id for %s::edit()"
+msgstr ""
+
+#: cake/libs/controller/scaffold.php:325
+#, php-format
+msgid "The %1$s has been %2$s"
+msgstr ""
+
+#: cake/libs/controller/scaffold.php:341
+msgid "Please correct errors below."
+msgstr ""
+
+#: cake/libs/controller/scaffold.php:381
+#, php-format
+msgid "No id set for %s::delete()"
+msgstr ""
+
+#: cake/libs/controller/scaffold.php:396
+#, php-format
+msgid "The %1$s with id: %2$d has been deleted."
+msgstr ""
+
+#: cake/libs/controller/scaffold.php:408
+#, php-format
+msgid "There was an error deleting the %1$s with id: %2$d"
+msgstr ""
+
+#: cake/libs/controller/components/acl.php:55
+#, php-format
+msgid "Could not find %s."
+msgstr ""
+
+#: cake/libs/controller/components/acl.php:180
+msgid "[acl_base] The AclBase class constructor has been called, or the class was instantiated. This class must remain abstract. Please refer to the Cake docs for ACL configuration."
+msgstr ""
+
+#: cake/libs/controller/components/acl.php:273
+msgid ""
+"DbAcl::check() - Failed ARO/ACO node lookup in permissions check.  Node references:\n"
+"Aro: "
+msgstr ""
+
+#: cake/libs/controller/components/acl.php:278
+msgid ""
+"DbAcl::check() - Failed ACO node lookup in permissions check.  Node references:\n"
+"Aro: "
+msgstr ""
+
+#: cake/libs/controller/components/acl.php:286
+#, php-format
+msgid "ACO permissions key %s does not exist in DbAcl::check()"
+msgstr ""
+
+#: cake/libs/controller/components/acl.php:361
+msgid "DbAcl::allow() - Invalid node"
+msgstr ""
+
+#: cake/libs/controller/components/auth.php:422
+msgid "Could not find AclComponent. Please include Acl in Controller::$components."
+msgstr ""
+
+#: cake/libs/controller/components/auth.php:465
+msgid "Could not find $userModel. Please set AuthComponent::$userModel in beforeFilter()."
+msgstr ""
+
+#: cake/libs/controller/components/auth.php:477
+msgid "Login failed. Invalid username or password."
+msgstr ""
+
+#: cake/libs/controller/components/auth.php:478
+msgid "You are not authorized to access that location."
+msgstr ""
+
+#: cake/libs/controller/components/auth.php:533
+#, php-format
+msgid "Auth::startup() - Attempted access of un-mapped action \"%1$s\" in controller \"%2$s\""
+msgstr ""
+
+#: cake/libs/controller/components/auth.php:557
+#, php-format
+msgid "Could not find %s. Set AuthComponent::$object in beforeFilter() or pass a valid object"
+msgstr ""
+
+#: cake/libs/controller/components/auth.php:563
+#, php-format
+msgid "%s::isAuthorized() is not defined."
+msgstr ""
+
+#: cake/libs/controller/components/auth.php:571
+msgid "Auth::isAuthorized() - $authorize is set to an incorrect value.  Allowed settings are: \"actions\", \"crud\", \"model\" or null."
+msgstr ""
+
+#: cake/libs/controller/components/auth.php:826
+msgid "Auth::getModel() - Model is not set or could not be found"
+msgstr ""
+
+#: cake/libs/controller/components/email.php:723
+msgid "_lineLength cannot be accessed please use lineLength"
+msgstr ""
+
+#: cake/libs/controller/components/security.php:337
+msgid "SecurityComponent::loginCredentials() - Server does not support digest authentication"
+msgstr ""
+
+#: cake/libs/model/cake_schema.php:606
+#, php-format
+msgid "Schema generation error: invalid column type %s does not exist in DBO"
+msgstr ""
+
+#: cake/libs/model/connection_manager.php:102
+#, php-format
+msgid "ConnectionManager::getDataSource - Non-existent data source %s"
+msgstr ""
+
+#: cake/libs/model/connection_manager.php:110
+#, php-format
+msgid "ConnectionManager::getDataSource - Could not load class %s"
+msgstr ""
+
+#: cake/libs/model/connection_manager.php:185
+#, php-format
+msgid "ConnectionManager::loadDataSource - Unable to import DataSource class %s"
+msgstr ""
+
+#: cake/libs/model/db_acl.php:146
+#, php-format
+msgid "Model class '%s' not found in AclNode::node() when trying to bind %s object"
+msgstr ""
+
+#: cake/libs/model/db_acl.php:191
+#, php-format
+msgid "AclNode::node() - Couldn't find %s node identified by \"%s\""
+msgstr ""
+
+#: cake/libs/model/model.php:953
+msgid "(Model::getColumnTypes) Unable to build model field data. If you are using a model without a database table, try implementing schema()"
+msgstr ""
+
+#: cake/libs/model/model.php:2565
+msgid "This field cannot be left blank"
+msgstr ""
+
+#: cake/libs/model/model.php:2613
+#, php-format
+msgid "Could not find validation handler %s for %s"
+msgstr ""
+
+#: cake/libs/model/model.php:2923
+#, php-format
+msgid "Invalid join model settings in %s"
+msgstr ""
+
+#: cake/libs/model/model_behavior.php:448
+#, php-format
+msgid "BehaviorCollection::dispatchMethod() - Method %s not found in any attached behavior"
+msgstr ""
+
+#: cake/libs/model/behaviors/acl.php:64
+#, php-format
+msgid "Callback parentNode() not defined in %s"
+msgstr ""
+
+#: cake/libs/model/behaviors/containable.php:363
+#, php-format
+msgid "Model \"%s\" is not associated with model \"%s\""
+msgstr ""
+
+#: cake/libs/model/behaviors/translate.php:59
+#, php-format
+msgid "Datasource %s for TranslateBehavior of model %s is not connected"
+msgstr ""
+
+#: cake/libs/model/behaviors/translate.php:455
+#, php-format
+msgid "Association %s is already binded to model %s"
+msgstr ""
+
+#: cake/libs/model/datasources/dbo_source.php:684
+msgid "SQL Error:"
+msgstr ""
+
+#: cake/libs/model/datasources/dbo_source.php:686
+#, php-format
+msgid "Aff:%s Num:%s Took:%sms"
+msgstr ""
+
+#: cake/libs/model/datasources/dbo_source.php:688
+msgid "Query:"
+msgstr ""
+
+#: cake/libs/model/datasources/dbo_source.php:923
+#: cake/libs/model/datasources/dbo/dbo_oracle.php:997
+#, php-format
+msgid "SQL Error in model %s:"
+msgstr ""
+
+#: cake/libs/model/datasources/dbo_source.php:2521
+msgid "FIXME: Can't parse field: "
+msgstr ""
+
+#: cake/libs/model/datasources/dbo_source.php:2632
+#: cake/libs/model/datasources/dbo_source.php:2694
+#: cake/libs/model/datasources/dbo/dbo_mysql.php:355
+#: cake/libs/model/datasources/dbo/dbo_oracle.php:1147
+msgid "Invalid schema object"
+msgstr ""
+
+#: cake/libs/model/datasources/dbo_source.php:2720
+#: cake/libs/model/datasources/dbo/dbo_sqlite.php:493
+msgid "Column name or type not defined in schema"
+msgstr ""
+
+#: cake/libs/model/datasources/dbo_source.php:2725
+#: cake/libs/model/datasources/dbo/dbo_sqlite.php:498
+#, php-format
+msgid "Column type %s does not exist"
+msgstr ""
+
+#: cake/libs/model/datasources/dbo/dbo_mssql.php:121
+msgid "PHP SQL Server interface is not installed, cannot continue. For troubleshooting information, see http://php.net/mssql/"
+msgstr ""
+
+#: cake/libs/model/datasources/dbo/dbo_oracle.php:586
+msgid "Must specify table to operate on constraints"
+msgstr ""
+
+#: cake/libs/model/datasources/dbo/dbo_oracle.php:644
+msgid "DboOracle::constraint() accepts only enable, disable, or list"
+msgstr ""
+
+#: cake/libs/view/helper.php:154
+#, php-format
+msgid "Method %1$s::%2$s does not exist"
+msgstr ""
+
+#: cake/libs/view/view.php:449
+#, php-format
+msgid "Error in view %s, got: <blockquote>%s</blockquote>"
+msgstr ""
+
+#: cake/libs/view/view.php:493
+#, php-format
+msgid "Error in layout %s, got: <blockquote>%s</blockquote>"
+msgstr ""
+
+#: cake/libs/view/helpers/form.php:510
+#, php-format
+msgid "Error in field %s"
+msgstr ""
+
+#: cake/libs/view/helpers/form.php:627
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: cake/libs/view/helpers/form.php:633
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: cake/libs/view/helpers/form.php:1311
+msgid "Submit"
+msgstr "提交"
+
+#: cake/libs/view/helpers/form.php:2131
+msgid "January"
+msgstr "一月"
+
+#: cake/libs/view/helpers/form.php:2132
+msgid "February"
+msgstr "二月"
+
+#: cake/libs/view/helpers/form.php:2133
+msgid "March"
+msgstr "三月"
+
+#: cake/libs/view/helpers/form.php:2134
+msgid "April"
+msgstr "四月"
+
+#: cake/libs/view/helpers/form.php:2135
+msgid "May"
+msgstr "五月"
+
+#: cake/libs/view/helpers/form.php:2136
+msgid "June"
+msgstr "六月"
+
+#: cake/libs/view/helpers/form.php:2137
+msgid "July"
+msgstr "七月"
+
+#: cake/libs/view/helpers/form.php:2138
+msgid "August"
+msgstr "八月"
+
+#: cake/libs/view/helpers/form.php:2139
+msgid "September"
+msgstr "九月"
+
+#: cake/libs/view/helpers/form.php:2140
+msgid "October"
+msgstr "十月"
+
+#: cake/libs/view/helpers/form.php:2141
+msgid "November"
+msgstr "十一月"
+
+#: cake/libs/view/helpers/form.php:2142
+msgid "December"
+msgstr "十二月"
+
+#: cake/libs/view/helpers/js.php:154
+#, php-format
+msgid "JsHelper:: Missing Method %s is undefined"
+msgstr ""
+
+#: cake/libs/view/helpers/js.php:795
+#, php-format
+msgid "%s does not have get() implemented"
+msgstr ""
+
+#: cake/libs/view/helpers/js.php:814
+#, php-format
+msgid "%s does not have event() implemented"
+msgstr ""
+
+#: cake/libs/view/helpers/js.php:825
+#, php-format
+msgid "%s does not have domReady() implemented"
+msgstr ""
+
+#: cake/libs/view/helpers/js.php:835
+#, php-format
+msgid "%s does not have each() implemented"
+msgstr ""
+
+#: cake/libs/view/helpers/js.php:863
+#, php-format
+msgid "%s does not have effect() implemented"
+msgstr ""
+
+#: cake/libs/view/helpers/js.php:893
+#, php-format
+msgid "%s does not have request() implemented"
+msgstr ""
+
+#: cake/libs/view/helpers/js.php:917
+#, php-format
+msgid "%s does not have drag() implemented"
+msgstr ""
+
+#: cake/libs/view/helpers/js.php:939
+#, php-format
+msgid "%s does not have drop() implemented"
+msgstr ""
+
+#: cake/libs/view/helpers/js.php:965
+#, php-format
+msgid "%s does not have sortable() implemented"
+msgstr ""
+
+#: cake/libs/view/helpers/js.php:990
+#, php-format
+msgid "%s does not have slider() implemented"
+msgstr ""
+
+#: cake/libs/view/helpers/js.php:1010
+#, php-format
+msgid "%s does not have serializeForm() implemented"
+msgstr ""
+
+#: cake/libs/view/helpers/mootools_engine.php:310
+msgid "MootoolsEngine::drop() requires a \"drag\" option to properly function"
+msgstr ""
+
+#: cake/libs/view/helpers/number.php:93
+#, php-format
+msgid "%d KB"
+msgstr ""
+
+#: cake/libs/view/helpers/number.php:95
+#, php-format
+msgid "%.2f MB"
+msgstr ""
+
+#: cake/libs/view/helpers/number.php:97
+#, php-format
+msgid "%.2f GB"
+msgstr ""
+
+#: cake/libs/view/helpers/number.php:99
+#, php-format
+msgid "%.2f TB"
+msgstr ""
+
+#: cake/libs/view/helpers/paginator.php:99
+#, php-format
+msgid "%s does not implement a link() method, it is incompatible with PaginatorHelper"
+msgstr ""
+
+#: cake/libs/view/helpers/paginator.php:534
+msgid " of "
+msgstr ""
+
+#: cake/libs/view/helpers/session.php:184
+msgid "You can not write to a Session from the view"
+msgstr ""
+
+#: cake/libs/view/helpers/time.php:239
+#, php-format
+msgid "Today, %s"
+msgstr ""
+
+#: cake/libs/view/helpers/time.php:241
+#, php-format
+msgid "Yesterday, %s"
+msgstr ""
+
+#: cake/libs/view/helpers/time.php:588
+#, php-format
+msgid "on %s"
+msgstr ""
+
+#: cake/libs/view/helpers/time.php:622
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: cake/libs/view/helpers/time.php:658
+msgid "days"
+msgstr ""
+
+#: cake/tests/cases/basics.test.php:381
+msgid "Plural Rule 1"
+msgstr ""
+
+#: cake/tests/cases/basics.test.php:385
+#: cake/tests/cases/basics.test.php:390
+msgid "Plural Rule 1 (from core)"
+msgstr ""
+
+#: cake/tests/cases/libs/i18n.test.php:2554
+msgid "No Translation needed"
+msgstr ""
+
+#: cake/tests/cases/libs/i18n.test.php:2566
+msgid "this is a \"quoted string\""
+msgstr ""
+
+#: cake/tests/lib/cake_test_case.php:540
+#, php-format
+msgid "Referenced fixture class %s not found"
+msgstr ""
+
+#: cake/tests/lib/code_coverage_manager.php:104
+msgid "Xdebug supports no parallel coverage analysis - so this is not possible."
+msgstr ""
+
+#: cake/tests/lib/code_coverage_manager.php:226
+#: cake/tests/lib/code_coverage_manager.php:239
+#, php-format
+msgid "This test object file is invalid: %s"
+msgstr ""
+
+#: cake/tests/lib/code_coverage_manager.php:553
+msgid "This group file does not exist!"
+msgstr ""
+
+#: cake/tests/lib/code_coverage_manager.php:740
+msgid "Sorry, you cannot have more covered lines than total lines!"
+msgstr ""
+
+#: cake/tests/lib/test_manager.php:104
+msgid "All App Tests"
+msgstr ""
+
+#: cake/tests/lib/test_manager.php:106
+#, php-format
+msgid "All %s Plugin Tests"
+msgstr ""
+
+#: cake/tests/lib/test_manager.php:108
+msgid "All Core Tests"
+msgstr ""
+
+#: cake/tests/lib/test_manager.php:136
+#, php-format
+msgid "Test case %s cannot be found"
+msgstr ""
+
+#: cake/tests/lib/test_manager.php:146
+#, php-format
+msgid "Individual test case: %s"
+msgstr ""
+
+#: cake/tests/lib/test_manager.php:164
+#, php-format
+msgid "Group test %s cannot be found at %s"
+msgstr ""
+
+#: cake/tests/lib/test_manager.php:173
+#, php-format
+msgid "%s group test"
+msgstr ""
+
+#: app/views/applytables/add.ctp:4
+msgid "Add Applytable"
+msgstr ""
+
+#: app/views/applytables/add.ctp:16
+#: app/views/applytables/edit.ctp:17
+#: app/views/applytables/index.ctp:11
+#: app/views/applytables/index.ctp:53
+#: app/views/applytables/view.ctp:37
+#: app/views/directions/add.ctp:14
+#: app/views/directions/edit.ctp:13
+#: app/views/directions/index.ctp:9
+#: app/views/directions/index.ctp:47
+#: app/views/directions/view.ctp:33
+#: app/views/directions/view.ctp:52
+msgid "Actions"
+msgstr ""
+
+#: app/views/applytables/add.ctp:19
+#: app/views/applytables/edit.ctp:21
+#: app/views/applytables/view.ctp:41
+msgid "List Applytables"
+msgstr ""
+
+#: app/views/applytables/add.ctp:20
+#: app/views/applytables/edit.ctp:22
+#: app/views/applytables/index.ctp:56
+#: app/views/applytables/view.ctp:43
+msgid "List Matches"
+msgstr ""
+
+#: app/views/applytables/add.ctp:21
+#: app/views/applytables/edit.ctp:23
+#: app/views/applytables/index.ctp:57
+#: app/views/applytables/view.ctp:44
+msgid "New Match"
+msgstr "新比赛"
+
+#: app/views/applytables/edit.ctp:4
+#: app/views/applytables/view.ctp:39
+msgid "Edit Applytable"
+msgstr ""
+
+#: app/views/applytables/edit.ctp:20
+#: app/views/applytables/index.ctp:33
+#: app/views/directions/edit.ctp:16
+#: app/views/directions/index.ctp:27
+#: app/views/directions/view.ctp:73
+msgid "Delete"
+msgstr ""
+
+#: app/views/applytables/edit.ctp:20
+#: app/views/applytables/index.ctp:33
+#: app/views/applytables/view.ctp:40
+#: app/views/directions/edit.ctp:16
+#: app/views/directions/index.ctp:27
+#: app/views/directions/view.ctp:36
+#: app/views/directions/view.ctp:73
+#, php-format
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: app/views/applytables/index.ctp:2
+msgid "Applytables"
+msgstr ""
+
+#: app/views/applytables/index.ctp:31
+#: app/views/directions/index.ctp:25
+#: app/views/directions/view.ctp:71
+msgid "View"
+msgstr ""
+
+#: app/views/applytables/index.ctp:32
+#: app/views/directions/index.ctp:26
+#: app/views/directions/view.ctp:72
+msgid "Edit"
+msgstr ""
+
+#: app/views/applytables/index.ctp:41
+#: app/views/directions/index.ctp:35
+msgid "Page %page% of %pages%, showing %current% records out of %count% total, starting on record %start%, ending on %end%"
+msgstr ""
+
+#: app/views/applytables/index.ctp:46
+#: app/views/directions/index.ctp:40
+msgid "previous"
+msgstr "前一页"
+
+#: app/views/applytables/index.ctp:49
+#: app/views/directions/index.ctp:43
+msgid "next"
+msgstr "下一页"
+
+#: app/views/applytables/index.ctp:55
+#: app/views/applytables/view.ctp:42
+msgid "New Applytable"
+msgstr "新建申请表"
+
+#: app/views/applytables/view.ctp:2
+msgid "Applytable"
+msgstr "申请表"
+
+#: app/views/applytables/view.ctp:4
+#: app/views/directions/view.ctp:4
+#: app/views/directions/view.ctp:45
+msgid "Id"
+msgstr "Id"
+
+#: app/views/applytables/view.ctp:9
+#: app/views/directions/view.ctp:9
+#: app/views/directions/view.ctp:46
+msgid "Name"
+msgstr "名字"
+
+#: app/views/applytables/view.ctp:14
+msgid "Tel"
+msgstr "电话"
+
+#: app/views/applytables/view.ctp:19
+msgid "Email"
+msgstr "Email"
+
+#: app/views/applytables/view.ctp:24
+msgid "Src"
+msgstr ""
+
+#: app/views/applytables/view.ctp:29
+msgid "Match"
+msgstr "比赛"
+
+#: app/views/applytables/view.ctp:40
+msgid "Delete Applytable"
+msgstr "删除申请表"
+
+#: app/views/directions/add.ctp:4
+msgid "Add Direction"
+msgstr "添加方向"
+
+#: app/views/directions/add.ctp:17
+#: app/views/directions/edit.ctp:17
+msgid "List Directions"
+msgstr "方向列表"
+
+#: app/views/directions/add.ctp:18
+#: app/views/directions/edit.ctp:18
+#: app/views/directions/index.ctp:50
+#: app/views/directions/view.ctp:37
+msgid "List Projects"
+msgstr "列出项目"
+
+#: app/views/directions/add.ctp:19
+#: app/views/directions/edit.ctp:19
+#: app/views/directions/index.ctp:51
+#: app/views/directions/view.ctp:82
+msgid "New Project"
+msgstr "新建项目"
+
+#: app/views/directions/edit.ctp:4
+#: app/views/directions/view.ctp:35
+msgid "Edit Direction"
+msgstr "编辑方向"
+
+#: app/views/directions/index.ctp:2
+msgid "Directions"
+msgstr "方向"
+
+#: app/views/directions/index.ctp:49
+msgid "New Direction"
+msgstr "新建方向"
+
+#: app/views/directions/view.ctp:2
+msgid "Direction"
+msgstr "方向"
+
+#: app/views/directions/view.ctp:14
+#: app/views/directions/view.ctp:48
+msgid "Created"
+msgstr "创建"
+
+#: app/views/directions/view.ctp:19
+msgid "Modified"
+msgstr "修改"
+
+#: app/views/directions/view.ctp:24
+#: app/views/directions/view.ctp:51
+msgid "Description"
+msgstr "描述"
+
+#: app/views/directions/view.ctp:36
+msgid "Delete Direction"
+msgstr "删除方向"
+
+#: app/views/directions/view.ctp:41
+msgid "Related Projects"
+msgstr "相关项目"
+
+#: app/views/directions/view.ctp:47
+msgid "Isjoinable"
+msgstr ""
+
+#: app/views/directions/view.ctp:49
+msgid "Starttime"
+msgstr "开始时间"
+
+#: app/views/directions/view.ctp:50
+msgid "Endtime"
+msgstr "结束时间"
+
+#: app/views/elements/loginbar.ctp:3
+msgid "DashBoard"
+msgstr ""
+
+#: app/views/elements/loginbar.ctp:4
+msgid "Projects"
+msgstr "项目"
+
+#: app/views/elements/loginbar.ctp:6
+msgid "Post  A project"
+msgstr "发布项目"
+
+#: app/views/elements/loginbar.ctp:7
+msgid "View project"
+msgstr "查看项目"
+
+#: app/views/elements/loginbar.ctp:10
+msgid "Matches"
+msgstr "比赛"
+
+#: app/views/elements/loginbar.ctp:12
+msgid "Post  A Match"
+msgstr "发布比赛"
+
+#: app/views/elements/loginbar.ctp:13
+msgid "View Matches"
+msgstr "查看比赛"
+
+#: app/views/elements/loginbar.ctp:16
+msgid "Lectures"
+msgstr "讲座"
+
+#: app/views/elements/loginbar.ctp:18
+msgid "Post  A Lecture"
+msgstr "发布讲座"
+
+#: app/views/elements/loginbar.ctp:19
+msgid "View Lectures"
+msgstr "查看讲座"
+
+#: app/views/elements/loginbar.ctp:22
+msgid "Apply System"
+msgstr "申请系统"
+
+#: app/views/elements/loginbar.ctp:23
+#: app/views/elements/navibar.ctp:20
+msgid "About"
+msgstr "关于"
+
+#: app/views/elements/loginbar.ctp:26
+msgid "Logout"
+msgstr "注销"
+
+#: app/views/elements/loginform.ctp:1
+msgid "Ecnu Research Expert"
+msgstr "研究专家"
+
+#: app/views/elements/loginform.ctp:1
+msgid "Username"
+msgstr "用户名"
+
+#: app/views/elements/loginform.ctp:1
+#: app/views/groups/view.ctp:34
+msgid "Password"
+msgstr "密码"
+
+#: app/views/elements/navibar.ctp:3
+msgid "Home"
+msgstr "主页"
+
+#: app/views/elements/navibar.ctp:4
+#: app/views/faculties/view.ctp:2
+msgid "Faculty"
+msgstr "院系导航"
+
+#: app/views/elements/navibar.ctp:5
+msgid "Research"
+msgstr "科学研究"
+
+#: app/views/elements/navibar.ctp:7
+msgid "Search Project"
+msgstr "项目搜索"
+
+#: app/views/elements/navibar.ctp:8
+msgid "Research Gallery"
+msgstr "成果展示"
+
+#: app/views/elements/navibar.ctp:9
+msgid "Teachers"
+msgstr "老师"
+
+#: app/views/elements/navibar.ctp:12
+msgid "Activity"
+msgstr "活动与竞赛"
+
+#: app/views/elements/navibar.ctp:14
+msgid "Lecture"
+msgstr "讲座"
+
+#: app/views/elements/navibar.ctp:15
+msgid "Competition"
+msgstr "比赛"
+
+#: app/views/elements/navibar.ctp:16
+msgid "Register"
+msgstr "报名"
+
+#: app/views/elements/navibar.ctp:19
+msgid "Message"
+msgstr "留言板"
+
+#: app/views/elements/navibar.ctp:21
+msgid "language"
+msgstr "语言选择"
+
+#: app/views/elements/navibar.ctp:22
+msgid "login"
+msgstr "登陆"
+
+#: app/views/elements/sidebar.ctp:7
+msgid "Users Management"
+msgstr "用户管理"
+
+#: app/views/elements/sidebar.ctp:9
+#: app/views/groups/add.ctp:16
+#: app/views/groups/edit.ctp:18
+#: app/views/groups/index.ctp:46
+#: app/views/groups/view.ctp:23
+msgid "List Users"
+msgstr "用户列表"
+
+#: app/views/elements/sidebar.ctp:10
+msgid "Add a User"
+msgstr "添加一个用户"
+
+#: app/views/elements/sidebar.ctp:11
+msgid "Add a Usersgroup"
+msgstr "添加一个用户组"
+
+#: app/views/elements/sidebar.ctp:14
+msgid "Faculty Management"
+msgstr "院系导航管理"
+
+#: app/views/elements/sidebar.ctp:16
+#: app/views/faculties/add.ctp:17
+#: app/views/faculties/edit.ctp:18
+msgid "List Faculties"
+msgstr "院系导航列表"
+
+#: app/views/elements/sidebar.ctp:17
+msgid "Add a Faculty"
+msgstr "添加一个院系导航"
+
+#: app/views/elements/sidebar.ctp:18
+msgid "List teachers"
+msgstr "查看老师"
+
+#: app/views/elements/sidebar.ctp:19
+msgid "Add a teacher"
+msgstr "Add a teacher"
+
+#: app/views/elements/sidebar.ctp:26
+msgid "List Research Directions"
+msgstr "项目方向列表"
+
+#: app/views/elements/sidebar.ctp:27
+msgid "Add a Research Direction"
+msgstr "添加一个项目方向"
+
+#: app/views/elements/sidebar.ctp:28
+msgid "List Common Place"
+msgstr ""
+
+#: app/views/elements/sidebar.ctp:29
+msgid "Add Common Place"
+msgstr ""
+
+#: app/views/elements/sidebar.ctp:30
+msgid "Add Progress"
+msgstr "添加过程"
+
+#: app/views/faculties/add.ctp:4
+msgid "Add Faculty"
+msgstr "添加项目列表"
+
+#: app/views/faculties/add.ctp:18
+#: app/views/faculties/edit.ctp:19
+#: app/views/faculties/index.ctp:46
+msgid "List Teachers"
+msgstr "老师列表"
+
+#: app/views/faculties/add.ctp:19
+#: app/views/faculties/edit.ctp:20
+#: app/views/faculties/index.ctp:47
+#: app/views/faculties/view.ctp:59
+msgid "New Teacher"
+msgstr "新建老师"
+
+#: app/views/faculties/edit.ctp:4
+#: app/views/faculties/view.ctp:19
+msgid "Edit Faculty"
+msgstr "编辑院系导航"
+
+#: app/views/faculties/home.ctp:5
+#: app/views/faculties/home.ctp:6
+#: app/views/layouts/faculty.ctp:132
+msgid "Faculties and Schools"
+msgstr "院系导航和学校"
+
+#: app/views/faculties/index.ctp:2
+msgid "Faculties"
+msgstr "院系导航"
+
+#: app/views/faculties/index.ctp:45
+msgid "New Faculty"
+msgstr "新建院系导航"
+
+#: app/views/faculties/view.ctp:22
+msgid "Related Teachers"
+msgstr "相关老师"
+
+#: app/views/faculties/view.ctp:29
+#: app/views/groups/view.ctp:38
+msgid "Office"
+msgstr "办公室"
+
+#: app/views/groups/add.ctp:4
+msgid "Add Group"
+msgstr "添加分组"
+
+#: app/views/groups/add.ctp:15
+#: app/views/groups/edit.ctp:17
+#: app/views/groups/view.ctp:21
+msgid "List Groups"
+msgstr "分组列表"
+
+#: app/views/groups/add.ctp:17
+#: app/views/groups/edit.ctp:19
+#: app/views/groups/index.ctp:47
+#: app/views/groups/view.ctp:24
+#: app/views/groups/view.ctp:75
+msgid "New User"
+msgstr "新建用户"
+
+#: app/views/groups/edit.ctp:4
+#: app/views/groups/view.ctp:19
+msgid "Edit Group"
+msgstr "编辑分组"
+
+#: app/views/groups/index.ctp:2
+msgid "Groups"
+msgstr "分组"
+
+#: app/views/groups/index.ctp:45
+#: app/views/groups/view.ctp:22
+msgid "New Group"
+msgstr "新分组"
+
+#: app/views/groups/view.ctp:2
+msgid "Group"
+msgstr "分组"
+
+#: app/views/groups/view.ctp:20
+msgid "Delete Group"
+msgstr "删除分组"
+
+#: app/views/groups/view.ctp:28
+msgid "Related Users"
+msgstr "相关用户"
+
+#: app/views/groups/view.ctp:39
+msgid "Group Id"
+msgstr "分组Id"
+
+#: app/views/layouts/about.ctp:34
+#: app/views/layouts/default.ctp:30
+#: app/views/layouts/faculty.ctp:123
+msgid "ECNU"
+msgstr "华东师范大学"
+
+#: app/views/layouts/about.ctp:34
+#: app/views/layouts/default.ctp:30
+#: app/views/layouts/faculty.ctp:123
+msgid "Research Expert"
+msgstr "研究专家"
+
+#: app/views/layouts/about.ctp:35
+#: app/views/layouts/default.ctp:31
+#: app/views/layouts/faculty.ctp:124
+msgid "Transparent, Efficient, Informative"
+msgstr "透明，高效，充实"
+
+#: app/views/layouts/default.ctp:7
+#: app/views/layouts/faculty.ctp:7
+msgid "ECNU Research Expert"
+msgstr "华师大"
+
+#: app/views/layouts/default.ctp:38
+msgid "Welcome To Ecnu Research Expert   "
+msgstr "欢迎来到华东师范大学科研专家系统"
+
+#: app/views/layouts/home.ctp:43
+msgid "General Introduction"
+msgstr "总体介绍"
+
+#: app/views/layouts/home.ctp:44
+msgid "This is a research information center of ECNU.Our goal of thumb is to provide a transparent,efficient,informative approach to research and related events.We hope we could make it to be the desired solution both for students and teachers."
+msgstr ""
+
+#: app/views/layouts/home.ctp:52
+msgid "A project-oriented research information center.You can get to know the current progress of the research project and join the most suitable at your wish."
+msgstr ""
+
+#: app/views/layouts/home.ctp:59
+msgid "Lecture and Activity"
+msgstr "讲座、活动与竞赛"
+
+#: app/views/layouts/home.ctp:60
+msgid "Section amied to provide information about lectures and related events"
+msgstr ""
+
+#: app/views/layouts/home.ctp:67
+msgid "Leave us any message about research information or advice on impovement of the websited.We will give a response at our earliest convenience."
+msgstr ""
+
+#: app/views/lectures/add.ctp:4
+msgid "Add Lecture"
+msgstr "添加讲座"
+
+#: app/views/lectures/add.ctp:28
+#: app/views/lectures/edit.ctp:21
+#: app/views/lectures/view.ctp:51
+#: app/views/lecture_heads/add.ctp:17
+#: app/views/lecture_heads/edit.ctp:19
+#: app/views/lecture_heads/index.ctp:50
+#: app/views/lecture_heads/view.ctp:28
+msgid "List Lectures"
+msgstr "讲座列表"
+
+#: app/views/lectures/edit.ctp:4
+#: app/views/lectures/view.ctp:49
+msgid "Edit Lecture"
+msgstr "编辑讲座"
+
+#: app/views/lectures/home.ctp:56
+msgid "Archive"
+msgstr "档案文件"
+
+#: app/views/lectures/index.ctp:57
+#: app/views/lectures/view.ctp:52
+#: app/views/lecture_heads/add.ctp:18
+#: app/views/lecture_heads/edit.ctp:20
+#: app/views/lecture_heads/index.ctp:51
+#: app/views/lecture_heads/view.ctp:29
+msgid "New Lecture"
+msgstr "新讲座"
+
+#: app/views/lectures/view.ctp:24
+msgid "Speechmaker"
+msgstr "演讲人"
+
+#: app/views/lectures/view.ctp:29
+msgid "Time"
+msgstr "时间"
+
+#: app/views/lectures/view.ctp:34
+msgid "Place"
+msgstr "地点"
+
+#: app/views/lectures/view.ctp:50
+msgid "Delete Lecture"
+msgstr "删除讲座"
+
+#: app/views/lecture_heads/add.ctp:4
+msgid "Add Lecture Head"
+msgstr "减价讲座标题"
+
+#: app/views/lecture_heads/add.ctp:16
+#: app/views/lecture_heads/edit.ctp:18
+#: app/views/lecture_heads/view.ctp:26
+msgid "List Lecture Heads"
+msgstr "List Lecture Heads"
+
+#: app/views/lecture_heads/edit.ctp:4
+#: app/views/lecture_heads/view.ctp:24
+msgid "Edit Lecture Head"
+msgstr "编辑讲座标题"
+
+#: app/views/lecture_heads/index.ctp:2
+msgid "Lecture Heads"
+msgstr "讲座标题"
+
+#: app/views/lecture_heads/index.ctp:49
+#: app/views/lecture_heads/view.ctp:27
+msgid "New Lecture Head"
+msgstr "New Lecture Head"
+
+#: app/views/lecture_heads/view.ctp:2
+msgid "Lecture Head"
+msgstr "讲座标题"
+
+#: app/views/lecture_heads/view.ctp:25
+msgid "Delete Lecture Head"
+msgstr "删除讲座标题"
+
+#: app/views/matches/add.ctp:4
+msgid "Add Match"
+msgstr "添加比赛"
+
+#: app/views/matches/add.ctp:30
+msgid "List Match Teches"
+msgstr ""
+
+#: app/views/matches/add.ctp:31
+msgid "New Match Tech"
+msgstr ""
+
+#: app/views/matches/edit.ctp:4
+#: app/views/matches/view.ctp:49
+msgid "Edit Match"
+msgstr "编辑比赛"
+
+#: app/views/matches/home.ctp:28
+msgid "awarded works"
+msgstr ""
+
+#: app/views/matches/home.ctp:31
+msgid "name"
+msgstr "名字"
+
+#: app/views/matches/home.ctp:32
+msgid "introduction"
+msgstr "介绍"
+
+#: app/views/matches/home.ctp:33
+msgid "image"
+msgstr "图像"
+
+#: app/views/matches/view.ctp:29
+msgid "Issignable"
+msgstr ""
+
+#: app/views/matches/view.ctp:34
+msgid "User"
+msgstr "用户"
+
+#: app/views/matches/view.ctp:50
+msgid "Delete Match"
+msgstr "删除比赛"
+
+#: app/views/matches/view.ctp:60
+msgid "Related Match Teches"
+msgstr "相关比赛技术"
+
+#: app/views/matches/view.ctp:65
+msgid "Match Id"
+msgstr "比赛Id"
+
+#: app/views/matches/view.ctp:66
+msgid "Technique Id"
+msgstr "技术Id"
+
+#: app/views/match_heads/add.ctp:4
+msgid "Add Match Head"
+msgstr "添加比赛标题"
+
+#: app/views/match_heads/add.ctp:16
+#: app/views/match_heads/edit.ctp:18
+#: app/views/match_heads/view.ctp:26
+#, fuzzy
+msgid "List Match Heads"
+msgstr "发布比赛"
+
+#: app/views/match_heads/edit.ctp:4
+#: app/views/match_heads/view.ctp:24
+msgid "Edit Match Head"
+msgstr "编辑比赛标题"
+
+#: app/views/match_heads/index.ctp:2
+msgid "Match Heads"
+msgstr "比赛标题"
+
+#: app/views/match_heads/index.ctp:49
+#: app/views/match_heads/view.ctp:27
+#, fuzzy
+msgid "New Match Head"
+msgstr "查看比赛"
+
+#: app/views/match_heads/view.ctp:2
+msgid "Match Head"
+msgstr "比赛标题"
+
+#: app/views/match_heads/view.ctp:25
+msgid "Delete Match Head"
+msgstr "删除比赛标题"
+
+#: app/views/match_teches/add.ctp:4
+msgid "Add Match Tech"
+msgstr "添加比赛技术"
+
+#: app/views/match_teches/add.ctp:19
+#: app/views/match_teches/edit.ctp:21
+#: app/views/match_teches/index.ctp:54
+#: app/views/match_teches/view.ctp:30
+msgid "List Techniques"
+msgstr "技术列表"
+
+#: app/views/match_teches/add.ctp:20
+#: app/views/match_teches/edit.ctp:22
+#: app/views/match_teches/index.ctp:55
+#: app/views/match_teches/view.ctp:31
+msgid "New Technique"
+msgstr "新技术"
+
+#: app/views/match_teches/edit.ctp:4
+#: app/views/match_teches/view.ctp:24
+msgid "Edit Match Tech"
+msgstr "编辑比赛技术"
+
+#: app/views/match_teches/index.ctp:2
+msgid "Match Teches"
+msgstr "比赛技术"
+
+#: app/views/match_teches/view.ctp:2
+msgid "Match Tech"
+msgstr "比赛技术"
+
+#: app/views/match_teches/view.ctp:14
+msgid "Technique"
+msgstr "技术"
+
+#: app/views/match_teches/view.ctp:25
+msgid "Delete Match Tech"
+msgstr "删除比赛技术"
+
+#: app/views/messageboards/add.ctp:4
+msgid "Add Messageboard"
+msgstr "添加留言板"
+
+#: app/views/messageboards/add.ctp:16
+#: app/views/messageboards/edit.ctp:18
+#: app/views/messageboards/view.ctp:31
+#, fuzzy
+msgid "List Messageboards"
+msgstr "发布比赛"
+
+#: app/views/messageboards/edit.ctp:4
+#: app/views/messageboards/view.ctp:29
+msgid "Edit Messageboard"
+msgstr "编辑留言板"
+
+#: app/views/messageboards/view.ctp:2
+msgid "Messageboard"
+msgstr "留言板"
+
+#: app/views/messageboards/view.ctp:14
+msgid "Text"
+msgstr "文本"
+
+#: app/views/messageboards/view.ctp:30
+msgid "Delete Messageboard"
+msgstr "删除留言板"
+
+#: app/views/messageboards/view.ctp:32
+#, fuzzy
+msgid "New Messageboard"
+msgstr "查看比赛"
+
+#: app/views/places/add.ctp:4
+msgid "Add Place"
+msgstr "添加地点"
+
+#: app/views/places/add.ctp:15
+#: app/views/places/edit.ctp:17
+msgid "List Places"
+msgstr "地点列表"
+
+#: app/views/places/edit.ctp:4
+#: app/views/places/view.ctp:19
+msgid "Edit Place"
+msgstr "编辑地点"
+
+#: app/views/places/index.ctp:2
+msgid "Places"
+msgstr "地点"
+
+#: app/views/places/index.ctp:45
+msgid "New Place"
+msgstr "新地点"
+
+#: app/views/places/view.ctp:20
+msgid "Delete Place"
+msgstr "删除地点"
+
+#: app/views/progresses/add.ctp:16
+#: app/views/progresses/edit.ctp:17
+#: app/views/progresses/view.ctp:21
+#: app/views/projects/edit.ctp:29
+#: app/views/projects/index.ctp:74
+msgid "List Progresses"
+msgstr "过程列表"
+
+#: app/views/progresses/edit.ctp:4
+#: app/views/progresses/view.ctp:19
+msgid "Edit Progress"
+msgstr "编辑过程"
+
+#: app/views/progresses/index.ctp:2
+msgid "Progresses"
+msgstr "过程"
+
+#: app/views/progresses/index.ctp:45
+#: app/views/progresses/view.ctp:22
+#: app/views/projects/edit.ctp:30
+#: app/views/projects/index.ctp:75
+msgid "New Progress"
+msgstr "新过程"
+
+#: app/views/progresses/view.ctp:2
+msgid "Progress"
+msgstr "过程"
+
+#: app/views/progresses/view.ctp:20
+msgid "Delete Progress"
+msgstr "删除过程"
+
+#: app/views/progresses/view.ctp:34
+msgid "Teacher Id"
+msgstr "老师Id"
+
+#: app/views/progresses/view.ctp:35
+msgid "Direction Id"
+msgstr "方向"
+
+#: app/views/progresses/view.ctp:36
+msgid "Progress Id"
+msgstr "过程Id"
+
+#: app/views/projects/add.ctp:4
+msgid "Add Project"
+msgstr "添加项目"
+
+#: app/views/projects/add.ctp:8
+msgid "add teacher"
+msgstr "添加老师"
+
+#: app/views/projects/add.ctp:10
+msgid "add direction"
+msgstr "添加方向"
+
+#: app/views/projects/add.ctp:12
+msgid "add progress"
+msgstr "添加过程"
+
+#: app/views/projects/edit.ctp:4
+msgid "Edit Project"
+msgstr "编辑项目"
+
+#: app/views/projects/edit.ctp:31
+#: app/views/projects/index.ctp:76
+msgid "List Project Teches"
+msgstr "项目技术列表"
+
+#: app/views/projects/edit.ctp:32
+#: app/views/projects/index.ctp:77
+msgid "New Project Tech"
+msgstr "新项目技术"
+
+#: app/views/projects/listproject.ctp:5
+#: app/views/projects/searchresult.ctp:5
+msgid "Research Page:"
+msgstr "科学研究页码"
+
+#: app/views/project_heads/add.ctp:4
+msgid "Add Project Head"
+msgstr "添加项目标题"
+
+#: app/views/project_heads/add.ctp:17
+#: app/views/project_heads/edit.ctp:18
+#: app/views/project_heads/view.ctp:26
+#, fuzzy
+msgid "List Project Heads"
+msgstr "发布项目"
+
+#: app/views/project_heads/edit.ctp:4
+#: app/views/project_heads/view.ctp:24
+msgid "Edit Project Head"
+msgstr "编辑项目标题"
+
+#: app/views/project_heads/index.ctp:2
+msgid "Project Heads"
+msgstr "项目标题"
+
+#: app/views/project_heads/index.ctp:49
+#: app/views/project_heads/view.ctp:27
+#, fuzzy
+msgid "New Project Head"
+msgstr "查看项目"
+
+#: app/views/project_heads/view.ctp:2
+msgid "Project Head"
+msgstr "项目标题"
+
+#: app/views/project_heads/view.ctp:9
+#: app/views/project_teches/view.ctp:9
+msgid "Project"
+msgstr "项目"
+
+#: app/views/project_heads/view.ctp:25
+msgid "Delete Project Head"
+msgstr "过程Id"
+
+#: app/views/project_teches/add.ctp:4
+msgid "Add Project Tech"
+msgstr "添加项目技术"
+
+#: app/views/project_teches/edit.ctp:4
+#: app/views/project_teches/view.ctp:24
+msgid "Edit Project Tech"
+msgstr "编辑项目技术"
+
+#: app/views/project_teches/index.ctp:2
+msgid "Project Teches"
+msgstr "项目技术"
+
+#: app/views/project_teches/view.ctp:2
+msgid "Project Tech"
+msgstr "项目技术"
+
+#: app/views/project_teches/view.ctp:25
+msgid "Delete Project Tech"
+msgstr "删除项目技术"
+
+#: app/views/teachers/add.ctp:4
+msgid "Add Teacher"
+msgstr "添加老师"
+
+#: app/views/teachers/edit.ctp:4
+#: app/views/teachers/view.ctp:49
+msgid "Edit Teacher"
+msgstr "编辑老师"
+
+#: app/views/teachers/view.ctp:2
+msgid "Teacher"
+msgstr "老师"
+
+#: app/views/teachers/view.ctp:50
+msgid "Delete Teacher"
+msgstr "删除老师"
+
+#: app/views/teacher_heads/add.ctp:4
+#, fuzzy
+msgid "Add Teacher Head"
+msgstr "添加老师"
+
+#: app/views/teacher_heads/add.ctp:16
+#: app/views/teacher_heads/edit.ctp:18
+#: app/views/teacher_heads/view.ctp:26
+#, fuzzy
+msgid "List Teacher Heads"
+msgstr "老师列表"
+
+#: app/views/teacher_heads/edit.ctp:4
+#: app/views/teacher_heads/view.ctp:24
+#, fuzzy
+msgid "Edit Teacher Head"
+msgstr "编辑老师"
+
+#: app/views/teacher_heads/index.ctp:2
+#, fuzzy
+msgid "Teacher Heads"
+msgstr "老师Id"
+
+#: app/views/teacher_heads/index.ctp:49
+#: app/views/teacher_heads/view.ctp:27
+#, fuzzy
+msgid "New Teacher Head"
+msgstr "新建老师"
+
+#: app/views/teacher_heads/view.ctp:2
+#, fuzzy
+msgid "Teacher Head"
+msgstr "老师Id"
+
+#: app/views/teacher_heads/view.ctp:25
+#, fuzzy
+msgid "Delete Teacher Head"
+msgstr "删除老师"
+
+#: app/views/techniques/add.ctp:4
+msgid "Add Technique"
+msgstr ""
+
+#: app/views/techniques/edit.ctp:4
+#: app/views/techniques/view.ctp:19
+msgid "Edit Technique"
+msgstr ""
+
+#: app/views/techniques/index.ctp:2
+msgid "Techniques"
+msgstr ""
+
+#: app/views/techniques/view.ctp:20
+msgid "Delete Technique"
+msgstr ""
+
+#: app/views/techniques/view.ctp:68
+msgid "Related Project Teches"
+msgstr ""
+
+#: app/views/techniques/view.ctp:73
+msgid "Project Id"
+msgstr "项目Id"
+
+#: app/views/users/add.ctp:4
+msgid "Add User"
+msgstr "添加用户"
+
+#: app/views/users/edit.ctp:4
+#: app/views/users/view.ctp:59
+msgid "Edit User"
+msgstr "编辑用户"
+
+#: app/views/users/index.ctp:2
+msgid "Users"
+msgstr "用户"
+
+#: app/views/users/login.ctp:5
+msgid "Login"
+msgstr "登录"
+
+#: app/views/users/view.ctp:60
+msgid "Delete User"
+msgstr "删除用户"
+
+#: app/views/users/view.ctp:70
+msgid "Related Matches"
+msgstr "相关比赛"
+
+#: app/views/users/view.ctp:80
+msgid "User Id"
+msgstr "用户Id"
+
+#: app/views/xis/add.ctp:4
+msgid "Add Xi"
+msgstr "添加院系"
+
+#: app/views/xis/add.ctp:17
+#: app/views/xis/edit.ctp:19
+msgid "List Xis"
+msgstr "院系列表"
+
+#: app/views/xis/edit.ctp:4
+msgid "Edit Xi"
+msgstr "编辑院系"
+
+#: app/views/xis/index.ctp:2
+msgid "Xis"
+msgstr "院系"
+
+#: app/views/xis/index.ctp:51
+#: app/views/xis/view.ctp:32
+msgid "New Xi"
+msgstr "新院系"
+
+#: app/views/xis/view.ctp:2
+msgid "Xi"
+msgstr "院系"
+
+#: app/views/xis/view.ctp:30
+msgid "Delete Xi"
+msgstr "删除院系"
+
+#: app/views/xis/view.ctp:56
+msgid "Xi Id"
+msgstr "院系Id"
+
+#: cake/console/templates/skel/views/layouts/default.ctp:25
+msgid "CakePHP: the rapid development php framework:"
+msgstr ""
+
+#: cake/console/templates/skel/views/layouts/default.ctp:39
+#: cake/console/templates/skel/views/layouts/default.ctp:50
+msgid "CakePHP: the rapid development php framework"
+msgstr ""
+
+#: cake/libs/view/errors/error404.ctp:22
+#: cake/libs/view/errors/error500.ctp:22
+#: cake/libs/view/errors/missing_action.ctp:22
+#: cake/libs/view/errors/missing_action.ctp:26
+#: cake/libs/view/errors/missing_behavior_class.ctp:22
+#: cake/libs/view/errors/missing_behavior_class.ctp:26
+#: cake/libs/view/errors/missing_behavior_file.ctp:22
+#: cake/libs/view/errors/missing_behavior_file.ctp:26
+#: cake/libs/view/errors/missing_component_class.ctp:22
+#: cake/libs/view/errors/missing_component_class.ctp:26
+#: cake/libs/view/errors/missing_component_file.ctp:22
+#: cake/libs/view/errors/missing_component_file.ctp:26
+#: cake/libs/view/errors/missing_connection.ctp:22
+#: cake/libs/view/errors/missing_connection.ctp:26
+msgid "Error"
+msgstr "错误"
+
+#: cake/libs/view/errors/error500.ctp:23
+msgid "An Internal Error Has Occurred."
+msgstr ""
+
+#: cake/libs/view/errors/missing_action.ctp:20
+#, php-format
+msgid "Missing Method in %s"
+msgstr ""
+
+#: cake/libs/view/errors/missing_action.ctp:23
+#, php-format
+msgid "The action %1$s is not defined in controller %2$s"
+msgstr ""
+
+#: cake/libs/view/errors/missing_action.ctp:27
+#, php-format
+msgid "Create %1$s%2$s in file: %3$s."
+msgstr ""
+
+#: cake/libs/view/errors/missing_action.ctp:44
+#: cake/libs/view/errors/missing_behavior_class.ctp:37
+#: cake/libs/view/errors/missing_behavior_file.ctp:37
+#: cake/libs/view/errors/missing_component_class.ctp:37
+#: cake/libs/view/errors/missing_component_file.ctp:37
+#: cake/libs/view/errors/missing_connection.ctp:30
+msgid "Notice"
+msgstr "注意"
+
+#: cake/libs/view/errors/missing_action.ctp:45
+#: cake/libs/view/errors/missing_behavior_class.ctp:38
+#: cake/libs/view/errors/missing_behavior_file.ctp:38
+#: cake/libs/view/errors/missing_component_class.ctp:38
+#: cake/libs/view/errors/missing_component_file.ctp:38
+#, php-format
+msgid "If you want to customize this error message, create %s"
+msgstr ""
+
+#: cake/libs/view/errors/missing_behavior_class.ctp:23
+#, php-format
+msgid "The behavior class <em>%s</em> can not be found or does not exist."
+msgstr ""
+
+#: cake/libs/view/errors/missing_behavior_class.ctp:27
+#: cake/libs/view/errors/missing_behavior_file.ctp:27
+#, php-format
+msgid "Create the class below in file: %s"
+msgstr ""
+
+#: cake/libs/view/errors/missing_behavior_file.ctp:23
+#, php-format
+msgid "The Behavior file %s can not be found or does not exist."
+msgstr ""
+
+#: cake/libs/view/errors/missing_component_class.ctp:23
+#, php-format
+msgid "Component class %1$s in %2$s was not found."
+msgstr ""
+
+#: cake/libs/view/errors/missing_component_class.ctp:27
+#: cake/libs/view/errors/missing_component_file.ctp:27
+#, php-format
+msgid "Create the class %s in file: %s"
+msgstr ""
+
+#: cake/libs/view/errors/missing_component_file.ctp:23
+msgid "The component file was not found."
+msgstr ""
+
+#: cake/libs/view/errors/missing_connection.ctp:23
+#, php-format
+msgid "%s requires a database connection"
+msgstr ""
+
+#: cake/libs/view/errors/missing_connection.ctp:27
+#, php-format
+msgid "Confirm you have created the file : %s."
+msgstr ""
+
+#: cake/libs/view/errors/missing_connection.ctp:31
+#, php-format
+msgid "If you want to customize this error message, create %s."
+msgstr ""
+
+#: cake/libs/view/errors/missing_controller.ctp:23
+#, php-format
+msgid "%s could not be found."
+msgstr ""
+
+#: cake/libs/view/errors/missing_controller.ctp:27
+#, php-format
+msgid "Create the class %s below in file: %s"
+msgstr ""
+
+#: cake/libs/view/errors/missing_helper_class.ctp:23
+#, php-format
+msgid "The helper class <em>%s</em> can not be found or does not exist."
+msgstr ""
+
+#: cake/libs/view/errors/missing_helper_file.ctp:23
+#, php-format
+msgid "The helper file %s can not be found or does not exist."
+msgstr ""
+
+#: cake/libs/view/errors/missing_layout.ctp:23
+#, php-format
+msgid "The layout file %s can not be found or does not exist."
+msgstr ""
+
+#: cake/libs/view/errors/missing_layout.ctp:27
+#: cake/libs/view/errors/missing_scaffolddb.ctp:27
+#: cake/libs/view/errors/missing_view.ctp:27
+#, php-format
+msgid "Confirm you have created the file: %s"
+msgstr ""
+
+#: cake/libs/view/errors/missing_model.ctp:23
+#, php-format
+msgid "<em>%s</em> could not be found."
+msgstr ""
+
+#: cake/libs/view/errors/missing_scaffolddb.ctp:23
+msgid "Scaffold requires a database connection"
+msgstr ""
+
+#: cake/libs/view/errors/missing_table.ctp:23
+#, php-format
+msgid "Database table %1$s for model %2$s was not found."
+msgstr ""
+
+#: cake/libs/view/errors/missing_view.ctp:23
+#, php-format
+msgid "The view for %1$s%2$s was not found."
+msgstr ""
+
+#: cake/libs/view/errors/private_action.ctp:20
+#, php-format
+msgid "Private Method in %s"
+msgstr ""
+
+#: cake/libs/view/errors/private_action.ctp:23
+#, php-format
+msgid "%s%s cannot be accessed directly."
+msgstr ""
+
+#: cake/libs/view/errors/scaffold_error.ctp:20
+msgid "Scaffold Error"
+msgstr ""
+
+#: cake/libs/view/errors/scaffold_error.ctp:23
+msgid "Method _scaffoldError in was not found in the controller"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:23
+#, php-format
+msgid "Release Notes for CakePHP %s."
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:24
+msgid "Read the changelog"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:31
+msgid "URL rewriting is not properly configured on your server. "
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:35
+msgid "Help me configure it"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:40
+msgid "I don't / can't use URL rewriting"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:49
+msgid "Your tmp directory is writable."
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:53
+msgid "Your tmp directory is NOT writable."
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:63
+#, php-format
+msgid "The %s is being used for caching. To change the config edit APP/config/core.php "
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:67
+msgid "Your cache is NOT working. Please check the settings in APP/config/core.php"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:77
+msgid "Your database configuration file is present."
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:82
+msgid "Your database configuration file is NOT present."
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:84
+msgid "Rename config/database.php.default to config/database.php"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:93
+msgid "PCRE has not been compiled with Unicode support."
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:95
+msgid "Recompile PCRE with Unicode support by adding <code>--enable-unicode-properties</code> when configuring"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:111
+msgid "Cake is able to connect to the database."
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:115
+msgid "Cake is NOT able to connect to the database."
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:121
+msgid "Editing this Page"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:124
+msgid ""
+"To change the content of this page, create: APP/views/pages/home.ctp.<br />\n"
+"To change its layout, create: APP/views/layouts/default.ctp.<br />\n"
+"You can also add some CSS styles for your pages at: APP/webroot/css."
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:130
+msgid "Getting Started"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:134
+msgid "New"
+msgstr "新建"
+
+#: cake/libs/view/pages/home.ctp:134
+msgid "CakePHP 1.3 Docs"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:143
+msgid "The 15 min Blog Tutorial"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:150
+msgid "More about Cake"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:152
+msgid "CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC."
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:155
+msgid "Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility."
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:159
+msgid "Cake Software Foundation"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:160
+msgid "Promoting development related to CakePHP"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:161
+msgid "CakePHP"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:162
+msgid "The Rapid Development Framework"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:163
+msgid "CakePHP Documentation"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:164
+msgid "Your Rapid Development Cookbook"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:165
+msgid "CakePHP API"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:166
+msgid "Quick Reference"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:167
+msgid "The Bakery"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:168
+msgid "Everything CakePHP"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:169
+msgid "The Show"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:170
+msgid "The Show is a live and archived internet radio broadcast CakePHP-related topics and answer questions live via IRC, Skype, and telephone."
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:171
+msgid "CakePHP Google Group"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:172
+msgid "Community mailing list"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:174
+msgid "Live chat about CakePHP"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:175
+msgid "CakePHP Code"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:176
+msgid "For the Development of CakePHP Git repository, Downloads"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:177
+msgid "CakePHP Lighthouse"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:178
+msgid "CakePHP Tickets, Wiki pages, Roadmap"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:179
+msgid "CakeForge"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:180
+msgid "Open Development for CakePHP"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:181
+msgid "Book Store"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:182
+msgid "Recommended Software Books"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:183
+msgid "CakePHP gear"
+msgstr ""
+
+#: cake/libs/view/pages/home.ctp:184
+msgid "Get your own CakePHP gear - Doughnate to Cake"
+msgstr ""
+
+#: cake/libs/view/scaffolds/edit.ctp:31
+#: cake/libs/view/scaffolds/index.ctp:57
+#: cake/libs/view/scaffolds/view.ctp:54
+#: cake/libs/view/scaffolds/view.ctp:146
+msgid "Are you sure you want to delete"
+msgstr ""
+
+#: cake/libs/view/scaffolds/edit.ctp:33
+msgid "List"
+msgstr "列表"
+
+#: cake/libs/view/scaffolds/edit.ctp:39
+#: cake/libs/view/scaffolds/index.ctp:85
+#: cake/libs/view/scaffolds/view.ctp:55
+#: cake/libs/view/scaffolds/view.ctp:62
+#, php-format
+msgid "List %s"
+msgstr ""
+
+#: cake/libs/view/scaffolds/view.ctp:21
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: cake/libs/view/scaffolds/view.ctp:54
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: cake/libs/view/scaffolds/view.ctp:75
+#: cake/libs/view/scaffolds/view.ctp:114
+#, php-format
+msgid "Related %s"
+msgstr ""
+
+#: cake/tests/test_app/views/pages/home.ctp:77
+#, php-format
+msgid ""
+"To change the content of this page, edit: %s\n"
+"\t\tTo change its layout, edit: %s\n"
+"\t\tYou can also add some CSS styles for your pages at: %s"
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:24
+msgid "Your tmp directory is "
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:26
+msgid "writable."
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:28
+msgid "NOT writable."
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:37
+msgid "Your cache is "
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:39
+msgid "set up and initialized properly."
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:42
+msgid " is being used to cache, to change this edit config/core.php "
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:52
+msgid "NOT working."
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:55
+msgid "Edit: config/core.php to insure you have the newset version of this file and the variable $cakeCache set properly"
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:64
+msgid "Your database configuration file is "
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:67
+msgid "present."
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:70
+msgid "NOT present."
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:88
+msgid "Cake"
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:90
+msgid " is able to "
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:92
+msgid " is NOT able to "
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:94
+msgid "connect to the database."
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:100
+msgid "Read the release notes and get the latest version"
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:103
+msgid "To change the content of this page, create: /app/views/pages/home.ctp."
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:104
+msgid "To change its layout, create: /app/views/layouts/default.ctp."
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:105
+msgid "See the views section of the manual for more info."
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:106
+msgid "You can also add some CSS styles for your pages at: app/webroot/css/."
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:111
+msgid "Cook up Web sites fast with CakePHP"
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:112
+msgid "Create an interactive production wiki using PHP"
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:128
+msgid "CakeSchwag"
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:132
+msgid "CakePHP Manual"
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:135
+msgid "Docblock Your Best Friend"
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:138
+msgid "CakePHP Trac"
+msgstr ""
+
+#: cake/tests/test_app/views/posts/test_nocache_tags.ctp:139
+msgid "For the Development of CakePHP (Tickets, SVN browser, Roadmap, Changelogs)"
+msgstr ""
+
+#~ msgid "faculties"
+#~ msgstr "院系"

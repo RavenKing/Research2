@@ -1,0 +1,307 @@
+/****progress表***/
+1 进行中
+2 待审批
+3 已结项
+
+/******directions表*****/
+1  计算理论
+2  图形学
+3  数据挖掘
+4  嵌入式系统
+5  软件工程
+6  数据管理
+
+/******老师数据*****/
+/**属性：图片(路径)，姓名，邮箱，办公室，faculty，简介************/
+
+1.wxl.jpg
+王晓玲
+xlwang@sei.ecnu.edu.cn
+数学馆115
+海量数据研究所
+数据管理技术 Web服务
+ 
+2.xjf.jpg
+何积丰
+jfhe@sei.ecnu.edu.cn
+数学馆
+计算理论研究所
+国家自然科学基金委“可信软件基础研究”重大研究计划 首席科学家
+科技部"海量信息的协同性和可生存性的理论与实践研究"973项目、首席科学家
+
+3.jnk.jpg
+姜宁康
+nkjiang@sei.ecnu.edu.cn
+中山北路校区理科楼B223
+软件工程系
+研究方向：软件工程 流媒体处理技术 移动通信
+
+4.zay.jpg
+周傲英
+ayzhou@sei.ecnu.edu.cn
+数学馆东106
+海量数据研究所
+数据管理与信息系统 包括：Web数据管理、中文Web基础设施、Web搜索与挖掘；
+数据流与数据挖掘、复杂事件处理与实时商务智能、不确定数据管理及其应用；
+数据密集的计算、分布存储与计算、对等计算系统及其数据管理、Web服务计算
+
+5.zh.jpg
+赵慧
+hzhao@sei.ecnu.edu.cn
+理科大楼B223
+软件工程系
+数据管理与分布式计算
+
+6.qwn.jpg
+钱卫宁
+wnqian@sei.ecnu.edu.cn
+数学馆东114
+海量数据研究所
+Web数据管理,海量数据挖掘,对等计算,数据流处理与分析
+
+7.gxq.jpg
+宫学庆
+xqgong@sei.ecnu.edu.cn
+数学馆东117
+海量数据处理研究所
+数据库、数据挖掘、Web数据管理、软件工程数据管理
+
+8.cwj.jpg
+陈闻杰
+wjchen@sei.ecnu.edu.cn
+数学馆308
+嵌入式系统系
+嵌入式系统；普适计算；传感器网络；智能终端；移动互联设备；汽车计算平台
+
+9.jxm.jpg
+琚小明
+xmju@sei.ecnu.edu.cn
+理科大楼B212
+嵌入式系统系
+程序设计语言开发方法、并行编译、嵌入式系统
+
+10.zmq.jpg
+周敏奇
+mqzhou@sei.ecnu.edu.cn
+数学馆东113
+海量数据研究所
+分布式系统 数据挖掘
+
+11.yzf.jpg
+杨争锋
+zfyang@sei.ecnu.edu.cn
+数学馆东201
+计算理论研究所
+符号计算 符号与数值混合计算  可信计算  程序验证
+
+12.wcb.jpg
+王长波
+cbwang@sei.ecnu.edu.cn
+理科楼B219
+数字娱乐系
+计算机图形学 数字媒体 信息可视化 数据分析 虚拟现实等
+
+
+/*********讲座数据***********/
+/***属性：图片(路径),名字，演讲人，时间，地点，描述******/
+1.lec1.jpg
+《科技创新遥远吗》
+张逸中
+2011-12-15-14:30
+数学馆113
+讲座由多次在国际和国内科技竞赛中获奖的张逸中同学和美国莱斯大学硕士生朱欣然同学主讲，科技创新的起步，两位主讲人招募感兴趣同学并进行相关培训的介绍。
+
+2.lec2.jpg
+<Social Network Analysis by Compression>
+Pei Jian
+2011-12-14-15:10
+科学会堂
+Do you ever think about compressing a social network may provide significant insights into the structure of the network?  In this talk, I will argue that compressing a large social network not only helps you to save storage space, but the compressibility of nodes and subgraphs indeed offers a meaningful measurement for social network analysis. 
+
+3.lec3.jpg
+<Capital Market Integration and Wage>
+Peter Henry
+2011-12-15-13:30
+科学会堂
+For three years after the typical emerging economy opens its stock market to inflows of foreign capital, the average annual growth rate of the real wage in the manufacturing sector increases by a factor of three. No such increase occurs in a control group of countries that do not liberalize. The temporary increase in wage growth drives up the level of the average worker’s annual compensation by $487 U.S.—an increase equal to nearly one-fifth of their annual pre-liberalization salary. Overall, the results suggest that trade in capital may have a larger impact on wages than trade in goods.
+
+4.lec4.jpg
+<Reconfigurable Computing – A Mega-Trend in the Future?>
+魏少军
+2011-12-17-14:00
+数学馆201
+由于功耗等因素的影响，微处理器架构正面临着重大的变革。“通用为王”是不可逆转的发展大趋势。一方面，CPU和DSP正在向多核（Multi-Cores）和众核（Many-Cores）方向发展，逐渐形成可重构的计算单元阵列，另一方面，现场可编程逻辑阵列（FPGA）不断地集成CPU、DSP和存储器等功能部件，逐渐构筑可重构的逻辑阵列。两者殊途同归，可望在不久的将来逐渐融合，形成统一的动态可重构、可配置、可编程处理器平台。国际上普遍认为，在集成电路工艺进步到16nm后，专用集成电路（ASIC）和SoC将逐渐退出市场，上述动态可重构、可配置、可编程的处理器平台将成为为数不多的主流产品之一，主导电子整机的开发，对计算机架构、软件和最终产品形态以及移动通信终端、便携式电子产品等产生重大和深远的影响。
+
+5.lec5.jpg
+《金融危机能否预测？》
+何东
+2011-12-16-14:00
+理科楼A501
+近些年经常发生的金融危机本质上是与实体经济发展的错位和不对称造成的，我们必须从全球经济和全球金融的角度来看待金融危机。金融危机能否被预测？这是很多经济学家和政府官员所日益关注的，也是许多经济学家现在正认真研究的。近些年，预测金融危机的数学模型和分析技术有了一定程度的发展，但无疑还需要在很多方面进一步完善。
+
+6.lec6.jpg
+<On Sinc Discretization and Banded Preconditioning for Linear Third-Order ODEs>
+潘建瑜
+2011-12-16-15:00
+数学馆201
+Some draining or coating fluid-flow problems and problems concerning the flow of thin films of viscous fluid with a free surface can be described by third-order ordinary differential equations. In this paper, we solve the boundary value problems of such equations by sinc discretization and prove that the discrete solutions converge to the true solutions of the ordinary differential equations exponentially. 
+
+7.lec7.jpg
+<Reverse Engineering With Grammatical and Visual Support>
+张康
+2011-12-26-13:00
+数学馆201
+Discovering program behaviors and functionalities is the primary activity of reverse engineering. Existing program analysis approaches have used text mining algorithms to infer behavior patterns or formal models from program execution. When one tries to identify the hierarchical composition of a program behavior at different abstraction levels, textual descriptions are not informative and expressive enough.
+
+8.lec8.jpg
+<ICT challenge in Internet of Things>
+Philippe COUSIN
+2011-12-19-14:00
+数学馆201
+Philippe COUSIN, has 28 years of experience in ICT. 17 years at various positions (operational fields, R&D, Standardisation (ETSI, ITU), testing methodologies,..) within a large telecom operator. Design and built two top ten worldwide large radio testing laboratories in China for the State Radio Monitoring centre and China Academy on Telecommunication & research – TMC. Involved in ICT research projects supporting Chinese partners since 5th EU research programme (FP5). Technical Director of one FP6 research project involving 12 partners including three Chinese partners.
+
+9.lec9.jpg
+《电子政务服务中面向社会安全的数据挖掘》
+张成奇
+2011-12-17-15:00
+理科楼A501
+Social Security is a key government service for maintaining fairness and stability in any country.  Due to the complexity of the services and the possibility of fraudulence, it is an ever-present problem which sometimes results in incorrect payments to beneficiaries.  It is also difficult to collect debts from low-income beneficiaries which have resulted from incorrect payments.  In practice, incorrect payments can be substantial, and this can impact on the perception and measurement of government performance.
+
+10.lec10.jpg
+《数据质量》
+钱卫宁
+2011-12-20-14:00
+数学馆113
+数据质量是数据库管理的非常重要的内容。在很多应用中，数据库专家所面临的困难并不在于算法设计方面的困难，而在于低质量数据所带来的困扰。低质量的数据在许多应用中广泛存在，包括Web数据、微博数据等。在过去几十年间，数据清洗是一种重要的提升数据质量的技术手段。目前，国际上也有专门的数据质量方面的会议，ICIQ。有关数据质量的论文也散见主流的国际会议。VLDB 2010的最佳论文即是关于数据质量方面的，这也说明这个研究方向仍然具有旺盛的生命力。
+
+
+
+
+/*********项目数据**************/
+
+/* 属性       id 	int(11) 			
+	    name 	varchar(45) 	utf8_general_ci 		
+	    teacher_id 	int(11) 			
+	    direction_id 	int(11) 			
+	    progress_id 	int(11) 			
+	    isjoinable 	tinyint(1) 	没写，自己编吧		
+	    created 	datetime  没写，自己编吧			
+	    modified 	datetime  没写，自己编吧			
+	    starttime 	datetime  没写，自己编吧			
+	    endtime 	datetime  没写，自己编吧			
+	    description 	text 	
+	    user_id*/
+/*编数据参考：
+1.王晓玲
+2.何积丰
+3.姜宁康
+4.周傲英
+5.赵慧
+6.钱卫宁
+7.宫学庆 
+8.陈闻杰 
+9.琚小明  
+10.周敏奇 
+11.杨争锋
+12 王长波 
+
+1  计算理论
+2  图形学
+3  数据挖掘
+4  嵌入式系统
+5  软件工程
+6  数据管理
+
+1 进行中
+2 待审批
+3 已结项
+
+		teacher_id 	int(11) 			
+	    direction_id 	int(11) 			
+	    progress_id 	int(11) 			
+	    isjoinable 	tinyint(1) 
+*/
+
+1.proj1.jpg
+可生成的海量信息系统软件设计理论
+2  何积丰
+1  计算理论
+3 已结项
+
+
+2.proj2.jpg
+实几何与代数的高效能算法
+11 杨争锋
+1  计算理论
+1 进行中
+
+3.proj3.jpg
+基于RDF的软件工程数据存储与检索技术研究
+7 宫学庆
+3  数据挖掘
+1 进行中
+
+4.proj4.jpg
+数字海洋虚拟环境与三维展示系统研究
+12 王长波
+2  图形学
+1  进行中
+
+5.proj5.jpg
+模型驱动式服务构造方法的研究
+2  何积丰
+1  计算理论
+3 已结项
+
+6.proj6.jpg
+视频监控系统客户端管理软件
+3 姜宁康
+5  软件工程
+1  进行中
+
+7.proj7.jpg
+嵌入式系统工程师认证培训课件制作
+8  陈闻杰 
+4  嵌入式系统
+1  进行中
+
+8.proj8.jpg
+灾难性自然场景的视景仿真关键技术研究
+12 王长波 
+2 图形学
+1 进行中
+
+9.proj9.jpg
+863数据项目
+5 赵慧
+6 数据管理
+3 已结项
+
+10.proj10.jpg
+纯XML-关系数据库系统PXRDB 研制与应用
+1 王晓玲
+6 数据管理
+3 已结项
+
+11.proj11.jpg
+面向新型信息服务的XML压缩及其查询优化
+1 王晓玲
+6 数据管理
+3 已结项
+
+12.proj12.jpg
+ICAN总线协议的标准化
+9 琚小明
+4  嵌入式系统
+3 已结项
+
+13.proj13.jpg
+流数据分析与管理综述
+4  周傲英
+6 数据管理
+3 已结项
+ 
+/*****各种链接******/
+软件学院  http://www.sei.ecnu.edu.cn/apps/portal/home.html
+生命科学学院 http://life.ecnu.edu.cn/index.htm
+信息科学技术学院 http://www.sist.ecnu.edu.cn/
