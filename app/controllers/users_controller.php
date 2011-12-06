@@ -4,9 +4,6 @@ class UsersController extends AppController {
 	var $name = 'Users';
 	  function beforeFilter() {
     parent::beforeFilter();
-$lan=$this->Session->read('language');
-if($lan!=null)
- Configure::write('Config.language',$lan);
 	}
     function main()
 	{

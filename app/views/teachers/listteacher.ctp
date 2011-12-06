@@ -1,14 +1,15 @@
 <?php
 //print_r($teacher);?>
+
 <div class="projects view">
    <div id="body">
     <div>
     	<div id="dpr-content-box">
+      <h1>ÊïôÂ∏à‰ø°ÊÅØ</h1>
         <br>
         <br>
-        <br>
-        <!--œÓƒø£¨div id="dpr-message-area"’‚∏ˆ«¯”Úœ‘ æ“ª∏ˆ◊ÓΩ¸∑¢≤ºµƒ“ª∏ˆœÓƒø(÷ª”–“ª∏ˆœÓƒø)
-        œÓƒø–≈œ¢£∫Õº∆¨£¨Œƒ◊÷ΩÈ…‹£¨¿œ ¶–≈œ¢-->
+        <!--È°πÁõÆÔºådiv id="dpr-message-area"Ëøô‰∏™Âå∫ÂüüÊòæÁ§∫‰∏Ä‰∏™ÊúÄËøëÂèëÂ∏ÉÁöÑ‰∏Ä‰∏™È°πÁõÆ(Âè™Êúâ‰∏Ä‰∏™È°πÁõÆ)
+        È°πÁõÆ‰ø°ÊÅØÔºöÂõæÁâáÔºåÊñáÂ≠ó‰ªãÁªçÔºåËÄÅÂ∏à‰ø°ÊÅØ-->
 	  <?php foreach($teacher as $teachers)
 	  {
 	  
@@ -37,8 +38,9 @@
 		<?php
 		}
 		?>	 
-       
-        
+             
 	</div>
+	
+<div style="float:right"><?php echo $paginator->numbers();?></div>  
     </div>
 

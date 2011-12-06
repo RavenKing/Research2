@@ -3,6 +3,9 @@ class TeachersController extends AppController {
 
 	var $name = 'Teachers';	    
 	var $uses=array('Teacher','TeacherHead');
+	var $paginate = array(
+	'limit'=>4
+);
 	function beforeFilter(){
     parent::beforeFilter();
 	

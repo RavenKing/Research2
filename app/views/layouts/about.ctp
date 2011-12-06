@@ -40,7 +40,7 @@
     <div id="slides-container">
         <div id="slides">
             <div>
-                <div class="slide-image"><?php echo $this->Html->image('people1.jpg',array('alt'=>'people'))?></div>
+                <div class="slide-image"><?php echo $this->Html->image('people2.jpg',array('alt'=>'people'))?></div>
                 <div class="slide-text">
                     <h2>General Introduction</h2>
                     <p>This is a research information center of ECNU.Our goal of thumb is to provide a transparent,efficient,informative approach to research and related events.We hope we could make it to be the desired solution both for students and teachers.</p>
@@ -48,7 +48,7 @@
             </div>
             
             <div>
-                <div class="slide-image"><img src="images/slide-research.jpg" alt="research image" href="www.ecnu.edu.cn"/></div>
+                <div class="slide-image"><?php echo $this->Html->image('people1.jpg',array('alt'=>'people'))?></div>
                 <div class="slide-text">
             	<h2 class="slide-text">Research</h2>
                 <p>A project-oriented research information center.You can get to know the current progress of the research project and join the most suitable at your wish.</p>
@@ -56,7 +56,7 @@
           </div>
             
             <div>
-                <div class="slide-image slide-image-right"><img src="images/slide-lecture.jpg" alt="lectures image" /></div>
+                <div class="slide-image"><?php echo $this->Html->image('people3.jpg',array('alt'=>'people'))?></div>
                 <div class="slide-text">
                     <h2>Activity</h2>
                     <p>Section amied at Lectures and Activities.</p>        

@@ -5,7 +5,11 @@
 <h1><?php  echo __('Research Page:');?></h1>
 </div>
 <?php
-
+//print_r($projects);
+if(empty($projects))
+{
+  echo "<h1>No Projects</h1>";
+}
  foreach($projects as $result)
  {
 ?>			

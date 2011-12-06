@@ -2,7 +2,11 @@
 class ApplytablesController extends AppController {
 
 	var $name = 'Applytables';
-
+var $components = array('Acl', 'Auth', 'Session');
+	function beforeFilter(){
+    parent::beforeFilter();
+	$this->Auth->allow('*');
+	}
 	function index() {
 		$this->Applytable->recursive = 0;
 		$this->set('applytables', $this->paginate());
@@ -63,7 +67,9 @@ class ApplytablesController extends AppController {
 		$this->Session->setFlash(__('Applytable was not deleted', true));
 		$this->redirect(array('action' => 'index'));
 	}
-	function home(){}
+	function home(){
+	
+	}
   function getcount($id=null)
   {
    if($id!=null)
@@ -78,4 +84,3 @@ class ApplytablesController extends AppController {
 }
 ?>
 
-}

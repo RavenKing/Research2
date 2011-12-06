@@ -4,9 +4,7 @@
     var $helpers = array('Html', 'Form', 'Session','Ajax','Javascript');
     function beforeFilter() {
     //Configure AuthComponent
-	
-	
-           $this->Auth->fields = array(
+      $this->Auth->fields = array(
                     'username' => 'name',
                     'password' => 'password'
                 );

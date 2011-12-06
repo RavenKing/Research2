@@ -1,4 +1,4 @@
-	<div id="body">
+	<div id="body">	
 		<div id="content">
 		<h1><?php
 		echo $result['Match']['name'];?></h1>
@@ -28,25 +28,23 @@
             				<h2><?php echo __("awarded works");?><a name="awarded_works"></a>历届获奖作品展示</h2>
 				<table>
 				  <tbody><tr>
-						<th><?php echo __("name");?></th>
-						<th><?php echo __("introduction");?></th>
-						<th><?php echo __("image");?></th>
+						<th><?php echo __("Name");?></th>
+						<th><?php echo __("Introduction");?></th>
+						<th><?php echo __("Download");?></th>
 					</tr>
+					<?php
+					$option=$this->requestAction(array('controller'=>'Matchawards','action'=>'getawards'),array('pass'=>array($result['Match']['id'])));
+				    
+ 					foreach($option as $result)
+					 {
+					 
+					?>
 					<tr>
-						<td><a href="#">作品1</a></td>
-						<td>此处省略1000字</td>
-						<td><img width="110" height="80" border="0" src="images/project_image_example.JPG" alt=""></td>
+						<td><?php echo $result['Matchaward']['title']?></td>
+						<td><?php echo $result['Matchaward']['description']?></td>
+						<td><?php $src="/research2/files/awards/".$result['Matchaward']['src'];?><a href=<?php echo $src;?>>下载</a></td>
 					</tr>
-					<tr>
-						<td>2</td>
-						<td>Fred James</td>
-						<td>49</td>
-					</tr>
-					<tr>
-						<td>3</td>
-						<td>Rachel Johnson</td>
-						<td>19</td>
-					</tr>
+					<?php }?>
 	
 				</tbody></table>
 				<p>&nbsp;</p>

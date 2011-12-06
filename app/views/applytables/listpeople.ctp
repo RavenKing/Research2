@@ -24,7 +24,11 @@ foreach($people as $result)
 									<br><?php echo $result['Applytable']['tel']?><br>
 									<br><?php echo $result['Applytable']['email']?><br>
 									文档名：<br><?php echo $result['Applytable']['src']?><br>
-									<a href="http://localhost/research2/files/apply/"<?php echo $result['Applytable']['src']; ?>>下载文档</a>
+									<?php 
+									$src="/research2/files/apply/".$result['Applytable']['src'];
+									?>
+									
+									<a href=<?php echo $src;?>>下载文档</a>
 								</td>
 							</tr>
 					</tbody>

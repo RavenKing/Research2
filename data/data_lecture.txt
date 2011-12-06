@@ -22,7 +22,7 @@ description:ÕÅ¿µ ²©Ê¿ ÏÖÈÎÃÀ¹úµÂ¿ËÈøË¹´óÑ§´ïÀ­Ë¹·ÖĞ£ ¼ÆËã»ú¿ÆÑ§Ïµ ÖÕÉúÕı½ÌÊÚ,¿ÉÊ
 
 
 name:Reconfigurable Computing ¨C A Mega-Trend in the Future?
-speechmaker:ÎºÉÙ¾ü
+speechmaker:	
 time:2010Äê5ÔÂ18ÈÕ
 place:ÊıÑ§¹İ201
 src:F:\picture\4.jpg

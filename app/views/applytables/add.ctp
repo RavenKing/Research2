@@ -6,7 +6,8 @@
 		echo $this->Form->input('name');
 		echo $this->Form->input('tel');
 		echo $this->Form->input('email');
-		echo $this->Form->input('src',array('type'=>'file','label'=>'上传申请资料'));
+		echo $this->Form->input('src',array('type'=>'file','label'=>'上传申请资料（文件名用英文）'));?>		
+<?php
 		echo $this->Form->input('match_id');
 	?>
 	</fieldset>

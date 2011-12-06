@@ -2,6 +2,10 @@
 class LecturesController extends AppController {
 
 	var $name = 'Lectures';
+	var $paginate = array(
+	'limit'=>5,
+	'order'=>array('Lecture.time'=>'desc')	
+);
 	var $uses=array('Lecture','LectureHead');
 	    function beforeFilter(){
     parent::beforeFilter();

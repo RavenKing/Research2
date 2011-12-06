@@ -2,7 +2,12 @@
 class ProjectsController extends AppController {
     var $uses=array('Project','ProjectHead');
 	var $name = 'Projects';
-	    function beforeFilter(){
+	var $paginate = array(
+	'limit'=>5,
+	'order'=>array('Project.created'=>'desc')	
+);
+
+    function beforeFilter(){
     parent::beforeFilter();
 $lan=$this->Session->read('language');
 if($lan!=null)
@@ -92,18 +97,19 @@ if($lan!=null)
 	function listproject($id=null)
 	{
 	$this->layout='listp';
-	echo $referer=Controller::referer();
-	if($referer=="/faculties/home")
+	 $referer=Controller::referer();
+	if($referer=="/faculties/home"&&$id!=null)
 	{
-	 $results=$this->Project->find('all',array('conditions'=>array('Project.faculty_id'=>$id)));
+	// $results=$this->Project->find('all',array('conditions'=>array('Project.faculty_id'=>$id)));
+	 $results=$this->paginate('Project', array('Project.id' =>$id));
 	}
 	else if($id==null)
 	{
-	$results=$this->Project->find('all');
+	 $results=$this->paginate('Project');
 	}
 	else
 	{
-      $results=$this->Project->find('all',array('conditions'=>array('Project.direction_id'=>$id)));
+	 $results=$this->paginate('Project', array('Project.direction_id' =>$id));
 	}
 	
 	$this->set('projects',$results);
@@ -126,13 +132,21 @@ if($lan!=null)
 	{
 	 $pname=$this->data['projectname'];
 	}
-	if($this->data['teachername']!=null)
+	else $pname="";
+	//if($this->data['teachername']!=null)
 	{
-	$tname=$this->data['teachername'];
+	//$tname=$this->data['teachername'];
 	}	
 	
-	$result=$this->Project->find('all',array('conditions'=>array('Project.name'=>$pname)));
-	print_r($result);
+	if($this->data['description']!=null)
+	{
+	$description=$this->data['description'];
+	}else $description="";
+	
+	$result=$this->Project->find('all',array('conditions'=>array('Project.name LIKE'=>"%$pname%",
+																'Project.description LIKE'=>"%$description%"
+	                                                                    )));
+	//print_r($result);
 	$this->set('projects',$result);
 	}
 	

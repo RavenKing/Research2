@@ -44,6 +44,7 @@
 							?>	
 				
           </div>
+		  <?php echo $paginator->numbers(); ?>
         </div>
         
         <div class="sidebar">

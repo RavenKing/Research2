@@ -1,0 +1,197 @@
+11.28修改提交说明：
+
+一、改动了那些文件？
+1.修改search-project.html    display-project.html
+2.新写了register.html 
+2.styles.css （只添加未删除）
+3.js文件夹中加入InputValidation.js
+4.images 加入四张图片:tl.gif tr.gif bl.gif br.gif 
+
+二、具体怎么改的？
+---------styles.css中添加：---------
+#contentLeft {
+	float: left;
+	width: 655px;
+}
+
+
+.roundcont { 
+   background-color: #EEEEEE;
+    color: #333333;
+    margin-bottom: 10px;
+    width: 620px;}
+
+.roundtop {
+    background: url("images/tr.gif") no-repeat scroll right top transparent;}
+
+.roundbottom {
+    background: url("images/br.gif") no-repeat scroll right top transparent;}
+
+img.corner {
+    border: medium none;
+    display: block !important;
+    height: 15px;
+    width: 15px;
+}
+
+<!--项目搜索页面侧栏的相关项目讲座信息侧栏-->
+#contentLeft {
+	float: left;
+	width: 655px;
+}
+
+#dpr-research-news-content {
+    float: left;
+    margin: 7px 5px 0 20px;
+    width: 225px;
+}
+
+#dpr-research-news-title {
+    color: #FF6600;
+    font-family: Georgia,"Times New Roman",Times,serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#dottedline1 {
+    border-bottom: 1px dotted #999999;
+    width: 100%;
+}
+
+#dpr-research-news-container {
+    border-bottom: 1px dotted #CCCCCC;
+    float: left;
+    height: 81px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    width: 225px;
+}
+#dpr-research-news-image {
+    float: left;
+    height: 81px;
+    width: 90px;
+}
+#dpr-research-news-text {
+    float: right;
+    height: 81px;
+    width: 122px;
+}
+<!--sidebar右边-->
+.sidebarRight {
+	width: 280px;
+	padding: 25px 0 0;
+	float: right;
+}
+
+
+.sidebarRight ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.sidebarRight ul li {
+	margin-bottom: 20px;
+	line-height: 1.9em;
+}
+
+.sidebarRight li ul {
+	padding: 10px;
+	background-color: #e0e0e0;
+}
+
+.sidebarRight li ul li {
+	display: block;
+	border-top: none;
+	padding: 6px 2px;
+	margin: 0;
+	line-height: 1.5em;
+	font-size: 13px;
+	border: none;
+}
+
+.sidebarRight li ul li a {
+	font-weight: normal;
+	color: #666;
+}
+
+.sidebarRight li ul li a:hover {
+	color: #04427B;
+}
+
+.sidebarRight li ul.blocklist {
+	padding: 0;
+}
+
+.sidebarRight li ul.blocklist li {
+	padding: 0;
+	display: inline;
+}
+
+.sidebarRight li ul.blocklist li a {
+	display: block;
+	border-bottom:1px solid #e0e0e0;
+	padding: 8px 10px;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.sidebarRight li ul.blocklist li a:hover {
+	background-color: #ccc;
+	color: #111;
+}
+
+
+
+.sidebarRight h4  {
+	color: #fff;
+	font-family: Lucida, "Lucida Sans", Geneva, Arial, sans-serif;
+	font-size: 13px;
+	letter-spacing: -0.5px;
+	border-bottom: 1px solid #02213B;
+	text-transform:uppercase;
+	margin: 0;
+	line-height: 1.9em;
+	padding: 5px 5px 5px 10px;
+	font-weight: bold;
+	background: #333 url('images/h4-bg.png') repeat-x center;
+}
+
+<!--research highlight页面-->
+
+#dpr-content-box {
+    background-color: #F1EFF0;
+    margin-top: 7px;
+    width: 950px;
+}
+#dpr-message-area {
+    background-color: #E1EAE6;
+    float: left;
+    margin-top: 7px;
+    padding: 15px;
+    width: 420px;
+}
+.imgbox1 {
+    display: inline;
+    float: left;
+    padding: 5px 20px 10px 0;
+}
+
+---------------css更改结束--------------------
+
+
+---------------图片添加4张--------
+图片增加：tr.jpg  tl.jpg  br.jpg  bl.jpg
+--------------图片更改结束----------
+
+--------js更改---------
+增加js文件：InputValidation.js
+-------js更改成结束-----
+
+
+-李若玙
+
+-11月28日下午

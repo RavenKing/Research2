@@ -2,9 +2,7 @@
   <div id="body">
     <div  id="content">
   <div id="breadcrumb">
-    <p><a href="Home.html"><?php echo __("Home");?></a> ? <!-- InstanceBeginEditable name="Breadcrumb" -->
-	<span lang="zh-cn"><?php echo __("Activity");?> ?</span>
-	<span lang="zh-cn"><?php echo __("Lecture");?></span></p>
+    <p><h1>我们提供最及时的讲座信息</h1></p>
   </div>
   <!-- InstanceBeginEditable name="Main Content" -->
 <br>
@@ -48,13 +46,14 @@
 <?php
 }
 ?>
+<div style="float:right"><?php echo $paginator->numbers(); ?></div>
     <!-- InstanceEndEditable -->
 </div>
         <div class="sidebar">
             <ul>	
                <li>
-                    <h4><span><?php echo __("Archive");?></span></h4>
-
+                  
+           <?php echo $this->Html->image('../images/pic0.jpg',array('alt'=>'pictuer'));?>
             </li>
             </ul> 
         </div>

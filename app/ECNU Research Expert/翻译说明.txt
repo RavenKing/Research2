@@ -1,0 +1,45 @@
+词汇翻译对照表:
+
+
+1.
+
+
+2.页面标题(<body><div id="container"><div id="header">)
+	
+	ECNU 华东师范大学 Research Expert 科研信息专家 
+
+
+3.导航栏(div id="nav")
+
+Home 主页  home.html
+
+Faculty 院系导航 faculty.html
+
+Research 科学研究  #
+   
+   Search Project 项目搜索 search_project.html
+ 
+   Research Gallery成果展示 display_project.html
+   
+   Project Highlight 近期热点 project_highlight.html
+
+Activity 活动与竞赛 #
+ 
+   Lecture 讲座 lecture.html
+   
+   Competition 比赛 competition.html
+   
+   Register 报名  register.html
+   
+Message 留言板 message.html
+
+About 关于 about.html
+   
+   
+4.register.html
+4.1报名表单区域
+
+4.2右边栏-各个比赛的介绍信息
+
+
+   

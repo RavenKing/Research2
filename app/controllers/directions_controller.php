@@ -6,8 +6,6 @@ class DirectionsController extends AppController {
     parent::beforeFilter();
 	
 $lan=$this->Session->read('language');
-if($lan!=null)
- Configure::write('Config.language',$lan);
 	}
 	function index() {
 		$this->Direction->recursive = 0;

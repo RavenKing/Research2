@@ -117,4 +117,9 @@ function getrecent()
 return $this->Match->find("all",array('order'=>array('Match.created DESC'),'limit'=>5));
 	 
 }
+function matchpeople()
+{
+
+
+}
 }
